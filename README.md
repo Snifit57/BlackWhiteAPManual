@@ -1,4 +1,4 @@
-# BlackWhiteAPManual
+# Pokémon Black and White AP Manual
 ## About
 A Manual Randomizer for use with Pokémon Black and White, for use with the [Archipelago Manual](https://github.com/ManualForArchipelago) Project. This Manual randomizes all ground items, HMs, Badges, and items given by important characters. Options are included to add hidden items as well as items from all the other NPCs.
 
@@ -38,3 +38,13 @@ Shoutouts to Linneus and their [Pokémon Platinum Manual](https://github.com/Lin
 - Hidden Items
 - Items given by all other NPCs
 - Mistralton Cave items
+
+## Current Available Options
+### Two Goal Options
+- Defeat Ghetsis at N's Castle - The default goal where you collect eight Badges receive the game's credits (Longer goal ideal for Asyncs)
+- Defeat Cobalion at Mistralton Cave - A shorter goal that excludes all checks from Twist Mountain and beyond, where you collect four Badges and take down the Sword of Justice (Ideal for Syncs)
+### Other Options
+- Include NPC Items - Adds checks from all random NPCs that give items
+- Randomize Hidden Items - Adds checks for the hidden items found throughout the game
+- Require Dowsing MCHN - Makes it so you need to receive the Dowsing MCHN before you are logically required to pick up hidden items
+- Include Mistralton Cave Items - Adds Mistralton Cave checks to the pool. This option was added to improve the Cobalion goal by preventing you from having to go through the cave twice if this is set to "false"
