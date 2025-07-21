@@ -33,6 +33,7 @@ Shoutouts to Linneus and their [Pokémon Platinum Manual](https://github.com/Lin
 - Item balls you find on the ground
 - HMs
 - Badges
+- Various events you complete throughout the game. (They will always give you the event as an item) These are just to help know what you gain access to upon completing the tasks.
 ### Available with options
 - Hidden Items
 - Items given by all other NPCs
