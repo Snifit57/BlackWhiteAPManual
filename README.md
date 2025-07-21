@@ -4,4 +4,11 @@ A Manual Randomizer for use with Pokémon Black and White, for use with the [Arc
 
 This AP World assumes you know how to add items to your game using [PKHeX](https://github.com/kwsch/PKHeX) (brief tutorial is included below)
 
-Shoutouts to Linneus and their [Pokémon Platinum Manual](https://github.com/Linneus/PlatinumAPManual/releases/tag/2.3) without out which I would not have been inspired to make this Manual or have the knowledge to add the extra options.
+Shoutouts to Linneus and their [Pokémon Platinum Manual](https://github.com/Linneus/PlatinumAPManual/releases/tag/2.3) without out which I would not have been inspired to make this Manual or have the knowledge to add extra options.
+
+## Check Rewards
+- HMs
+- TMs
+- Badges
+- Key Items
+- Pretty much any item you can have in your bag
