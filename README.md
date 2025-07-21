@@ -15,7 +15,25 @@ Shoutouts to Linneus and their [Pokémon Platinum Manual](https://github.com/Lin
 - Medicine Items
 
 ## Logic Requirements
-* * These are the items you are expected to receive from the server in order to progress past certain points
- - HM01 Cut to get past the tree in the Dreamyard and then proceed to Route 3
- - Insect Badge to access the area of Route 4 North of the Cheren Battle
+*These are the items you are expected to receive from the server in order to progress past certain points*
+ - HM01 Cut to get past the tree in the Dreamyard and then proceed to Route 3 as well as checks behind other Cut trees
+ - Insect Badge to access the area of Route 4 North of the Cheren fight
  - Bolt Badge to access Driftveil City
+ - Light/Dark Stone to initiate the Bianca fight and proceed to Tubeline Bridge
+ - HM03 Surf to get any checks that require you to Surf
+ - HM04 Strength to get checks behind Strength rocks
+ - HM05 Waterfall to checks up Waterfalls (Currently only one check)
+ - TM70 Flash to get checks in dark caves
+ - Completing the "Recieve Bicycle" Event check to access eastern Pinwheel forest
+ - All eight Badges to access Victory Road, the Pokémon League, and N's Castle
+
+## Check Locations
+### Always Available
+- Items given by "important" NPCs
+- Item balls you find on the ground
+- HMs
+- Badges
+### Available with options
+- Hidden Items
+- Items given by all other NPCs
+- Mistralton Cave items
