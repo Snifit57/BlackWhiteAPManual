@@ -11,4 +11,10 @@ Shoutouts to Linneus and their [Pokémon Platinum Manual](https://github.com/Lin
 - TMs
 - Badges
 - Key Items
-- Pretty much any item you can have in your bag
+- Item from the "Items Pocket"
+- Medicine Items
+
+ ## Logic Requirements
+ - HM01 Cut to get past the tree in the Dreamyard and then proceed to Route 3
+ - Insect Badge to access the area of Route 4 North of the Cheren Battle
+ - Bolt Badge to access Driftveil City
