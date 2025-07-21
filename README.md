@@ -14,7 +14,8 @@ Shoutouts to Linneus and their [Pokémon Platinum Manual](https://github.com/Lin
 - Item from the "Items Pocket"
 - Medicine Items
 
- ## Logic Requirements
+## Logic Requirements
+* * These are the items you are expected to receive from the server in order to progress past certain points
  - HM01 Cut to get past the tree in the Dreamyard and then proceed to Route 3
  - Insect Badge to access the area of Route 4 North of the Cheren Battle
  - Bolt Badge to access Driftveil City
