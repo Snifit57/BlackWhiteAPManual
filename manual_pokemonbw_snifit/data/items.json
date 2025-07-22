@@ -1,0 +1,1641 @@
+[
+  {
+    "count": 1,
+    "name": "Xtransceiver",
+    "category": [
+      "Key Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Town Map",
+    "category": [
+      "Key Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Poké Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Great Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Ultra Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Master Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "HM01 Cut",
+    "category": [
+      "HMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HM02 Fly",
+    "category": [
+      "HMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HM03 Surf",
+    "category": [
+      "HMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HM04 Strength",
+    "category": [
+      "HMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HM05 Waterfall",
+    "category": [
+      "HMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HM06 Dive",
+    "category": [
+      "HMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Trio Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Basic Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Insect Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bolt Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quake Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jet Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Freeze Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Legend Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Defeat Dreamyard Grunts",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Receive Dragon Skull",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Clay Removes Galvantula Web",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Defeat Route 8 Bianca",
+    "category": [
+      "Events",
+      "Async"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Light/Dark Stone",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dowsing MCHN",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Heal Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "TM70 Flash",
+    "category": [
+      "TMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Defeat Lenora",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Defeat Burgh",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Defeat Elesa",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Receive Bicycle",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bicycle",
+    "category": [
+      "Key Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM01",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM02",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM03",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM04",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM05",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM06",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM07",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM08",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM09",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM10",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM11",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM12",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM13",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM14",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM15",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM16",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM17",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM18",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM19",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM20",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM21",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM22",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM23",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM24",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM25",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM26",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM27",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM28",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM29",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM30",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM31",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM32",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM33",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM34",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM35",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM36",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM37",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM38",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM39",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM40",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM41",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM42",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM43",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM44",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM45",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM46",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM47",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM48",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM49",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM50",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM51",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM52",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM53",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM54",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM55",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM56",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM57",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM58",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM59",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM60",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM61",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM62",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM63",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM64",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM65",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM66",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM67",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM68",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM69",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM71",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM72",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM73",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM74",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM75",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM76",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM77",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM78",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM79",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM80",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM81",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM82",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM83",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM84",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM85",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM86",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM87",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM88",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM89",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM90",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM91",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM92",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM93",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM94",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM95",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Oran Berry",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Chesto Berry",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Quick Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lucky Egg",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Timer Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Moon Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Receive HM03 Surf from Alder",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Ring Bell at Celestial Tower",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Defeat Skyla",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Defeat Clay",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Dawn Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Dusk Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Fire Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Leaf Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Shiny Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Sun Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Thunder Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Water Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "12",
+    "name": "Nugget",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Tiny Mushroom",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Defeat Brycen",
+    "category": [
+      "Events",
+      "Async"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] N Escapes On Reshiram/Zekrom",
+    "category": [
+      "Events",
+      "Async"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Confront Ghetsis at Relic Castle",
+    "category": [
+      "Events",
+      "Async"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Receive Light/Dark Stone",
+    "category": [
+      "Events",
+      "Async"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Pearl",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Big Pearl",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Stardust",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Star Piece",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Eviolite",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "EXP Share",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Heat Rock",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Damp Rock",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Smooth Rock",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Icy Rock",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Full Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lax Incense",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luck Incense",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Odd Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pure Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rock Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rose Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sea Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Wave Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Defeat Iris/Drayden",
+    "category": [
+      "Events",
+      "Async"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Revive",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "6",
+    "name": "Max Revive",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Revival Herb",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Old Gateau",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Antidote",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Burn Heal",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Plume Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Cover Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Defeat Elite Four",
+    "category": [
+      "Events",
+      "Async"
+    ],
+    "progression": true
+  },
+  {
+    "count": "12",
+    "name": "Rare Candy",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Ice Heal",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Awakening",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Amulet Coin",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bright Powder",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Choice Band",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Choice Specs",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Choice Scarf",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Quick Claw",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "5",
+    "name": "Hyper Potion",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Full Heal",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "8",
+    "name": "Fresh Water",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Defeat Striaton Gym",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Repeat Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Dusk Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "HP Up",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Protein",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Iron",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Calcium",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Zinc",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Carbos",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "9",
+    "name": "PP Up",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "PP Max",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Super Rod",
+    "category": [
+      "Key Items"
+    ],
+    "useful": true
+  }
+]

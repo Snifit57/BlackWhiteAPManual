@@ -1,0 +1,65 @@
+{
+  "Southeast Unova": {
+    "starting": true,
+    "connects_to": [
+      "Nacrene and Pinwheel",
+      "Southeast Unova Water"
+    ],
+    "requires": []
+  },
+  "Nacrene and Pinwheel": {
+    "connects_to": [
+      "Castelia"
+    ],
+    "requires": "|HM01 Cut| AND |[EVENT] Defeat Dreamyard Grunts|"
+  },
+  "Castelia": {
+    "connects_to": [
+      "Desert and Nimbasa"
+    ],
+    "requires": "|[EVENT] Receive Dragon Skull|"
+  },
+  "Lower West Unova": {
+    "connects_to": [
+      "Far West Unova",
+      "Mistralton Cave"
+    ],
+    "requires": "|Bolt Badge| AND |[EVENT] Defeat Elesa|"
+  },
+  "Upper West Unova": {
+    "connects_to": [
+      "North Central Unova"
+    ],
+    "requires": "|[EVENT] Receive HM03 Surf from Alder|"
+  },
+  "North Central Unova": {
+    "connects_to": [
+      "Victory Road"
+    ],
+    "requires": "|Light/Dark Stone| AND |[EVENT] Defeat Route 8 Bianca|"
+  },
+  "Victory Road": {
+    "connects_to": [],
+    "requires": "|Trio Badge| AND |Basic Badge| AND |Insect Badge| AND |Bolt Badge| AND |Quake Badge| AND |Jet Badge| AND |Freeze Badge| AND |Legend Badge|"
+  },
+  "Southeast Unova Water": {
+    "connects_to": [],
+    "requires": "|HM03 Surf|"
+  },
+  "Desert and Nimbasa": {
+    "connects_to": [
+      "Lower West Unova"
+    ],
+    "requires": "|[EVENT] Defeat Burgh| AND |Insect Badge|"
+  },
+  "Far West Unova": {
+    "connects_to": [
+      "Upper West Unova"
+    ],
+    "requires": "|[EVENT] Clay Removes Galvantula Web|"
+  },
+  "Mistralton Cave": {
+    "connects_to": [],
+    "requires": "|HM04 Strength| AND |TM70 Flash| AND |HM03 Surf|"
+  }
+}

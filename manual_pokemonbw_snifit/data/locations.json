@@ -1,0 +1,3404 @@
+[
+  {
+    "name": "N's Castle - Defeat Ghetsis",
+    "region": "Victory Road",
+    "victory": true,
+    "category": [
+      "N's Castle"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "Nuvema Town - Xtransceiver from Mom",
+    "region": "Southeast Unova",
+    "category": [
+      "Nuvema Town"
+    ],
+    "requires": []
+  },  
+  {
+    "region": "Southeast Unova",
+    "name": "Nuvema Town - Pokedex from Prof Juniper",
+    "category": [
+      "Nuvema Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nuvema Town - Town Map from Mom",
+    "region": "Southeast Unova",
+    "category": [
+      "Nuvema Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 1 - Poké Balls from Prof Juniper",
+    "region": "Southeast Unova",
+    "category": [
+      "Route 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 1 - Woman in Grass",
+    "region": "Southeast Unova",
+    "category": [
+      "Route 1",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Accumula Town - Man in NW Building 2F",
+    "region": "Southeast Unova",
+    "category": [
+      "Accumula Town",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 2 - Running Shoes from Mom",
+    "region": "Southeast Unova",
+    "category": [
+      "Route 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 2 - Item in West Grass",
+    "region": "Southeast Unova",
+    "category": [
+      "Route 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 2 - Item up Stairs 1",
+    "region": "Southeast Unova",
+    "category": [
+      "Route 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 2 - Item up Stairs 2",
+    "region": "Southeast Unova",
+    "category": [
+      "Route 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 2 - Item in NW 1",
+    "region": "Southeast Unova",
+    "category": [
+      "Route 2"
+    ],
+    "requires": "|HM01 Cut|"
+  },
+  {
+    "name": "Route 2 - Item in NW 2",
+    "region": "Southeast Unova",
+    "category": [
+      "Route 2"
+    ],
+    "requires": "|HM01 Cut|"
+  },
+  {
+    "name": "Route 2 - Item in SW",
+    "region": "Southeast Unova",
+    "category": [
+      "Route 2"
+    ],
+    "requires": "|HM04 Strength|"
+  },
+  {
+    "name": "Striaton City - Item behind South Fence",
+    "region": "Southeast Unova",
+    "category": [
+      "Striaton City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Striaton City - Man in SE Building",
+    "region": "Southeast Unova",
+    "category": [
+      "Striaton City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Striaton City - Roughneck in East Alley",
+    "region": "Southeast Unova",
+    "category": [
+      "Striaton City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Striaton City - Item South of Fountain",
+    "region": "Southeast Unova",
+    "category": [
+      "Striaton City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Striaton City - Hidden Item East of NE Pond",
+    "region": "Southeast Unova",
+    "category": [
+      "Striaton City",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Striaton City - Quiz Reward from Boy in Trainers' School",
+    "region": "Southeast Unova",
+    "category": [
+      "Striaton City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Striaton City - Oran Berries from Cheren",
+    "region": "Southeast Unova",
+    "category": [
+      "Striaton City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Striaton Gym - Fresh Water from Gym Guide",
+    "region": "Southeast Unova",
+    "category": [
+      "Striaton City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Striaton Gym - Trio Badge from Gym Leaders",
+    "region": "Southeast Unova",
+    "category": [
+      "Striaton City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Striaton Gym - TM83 from Gym Leaders",
+    "region": "Southeast Unova",
+    "category": [
+      "Striaton City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "[EVENT] Defeat Striaton Gym",
+    "region": "Southeast Unova",
+    "category": [
+      "Striaton City"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Defeat Striaton Gym"
+    ]
+  },
+  {
+    "name": "Striaton City - HM01 Cut from Fennel",
+    "region": "Southeast Unova",
+    "category": [
+      "Striaton City"
+    ],
+    "requires": "|[EVENT] Defeat Striaton Gym|"
+  },
+  {
+    "name": "Striaton City - C-Gear from Fennel",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Striaton City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Striaton City - Pal Pad from Amanita",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Striaton City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Striaton City - Hidden Item in Tree West of Gateway to Route 3",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Striaton City",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Dreamyard - Item Beyond East Wall Gap",
+    "region": "Southeast Unova",
+    "category": [
+      "Dreamyard"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dreamyard - Item in West Grass",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dreamyard - Item South of Stairs",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dreamyard - Item up Stairs West",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dreamyard - Item up Stairs East",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 3 - Hidden Item in Middle of Sandbox (Dowsing MCHN is never logically required)",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Route 3",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 3 - Item in Grass North",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Route 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 3 - Item in Grass by Breeder",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Route 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 3 - Heal Balls from Girl",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Route 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 3 - Item in Grass Just Below Bianca Roadblock",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Route 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 3 - Item South of Bridge",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Route 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 3 - Item near Nacrene City Gate",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Route 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 3 - Item North of Large Pond",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Route 3"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Route 3 - Item West of Large Pond South",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Route 3"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Route 3 - Hidden Item West of Large Pond Just Above Stairs",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Route 3",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Route 3 - Item West of Large Pond North",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Route 3"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Wellspring Cave 1F - Item South of Entrance",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Wellspring Cave"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Wellspring Cave 1F - Hidden Item South of Entrance on Top of Stairs",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Wellspring Cave",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Wellspring Cave 1F - Hidden Item South of Entrance below Northern Raised Area",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Wellspring Cave",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Wellspring Cave 1F - Item Across Water West",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Wellspring Cave"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Wellspring Cave 1F - Item Across Water South",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Wellspring Cave"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Wellspring Cave B1F - Item in SE Corner",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Wellspring Cave"
+    ],
+    "requires": "|HM03 Surf| AND |TM70 Flash|"
+  },
+  {
+    "name": "Wellspring Cave B1F - Hidden Item in SE Corner",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Wellspring Cave",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND |TM70 Flash| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Wellspring Cave B1F - Item on Ledge in Center",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Wellspring Cave"
+    ],
+    "requires": "|HM03 Surf| AND |TM70 Flash|"
+  },
+  {
+    "name": "Wellspring Cave B1F - Item Down East Stairs",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Wellspring Cave"
+    ],
+    "requires": "|HM03 Surf| AND |TM70 Flash|"
+  },
+  {
+    "name": "Wellspring Cave B1F - Hidden Item on Small Rock Just West of Center",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Wellspring Cave",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND |TM70 Flash| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Wellspring Cave B1F - Hidden Item in Raised Area North of SE Corner Item",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Wellspring Cave",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND |TM70 Flash| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Wellspring Cave B1F - Item Up North Stairs",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Wellspring Cave"
+    ],
+    "requires": "|HM03 Surf| AND |TM70 Flash|"
+  },
+  {
+    "name": "Wellspring Cave B1F - Hidden Item on Wall in NE Corner",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Wellspring Cave",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND |TM70 Flash| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Nacrene City - Chesto Berries from Cheren",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Nacrene City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nacrene City - Type Boosting Item from Girl in Far West House",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Nacrene City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nacrene City - Hidden Item between Train Tracks Right of Fence",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Nacrene City",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Nacrene City - Hidden Item in Center of Cafe Warehouse's Patio",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Nacrene City",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Nacrene Gym - Fresh Water from Gym Guide",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Nacrene City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nacrene Gym - Basic Badge from Lenora",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Nacrene City"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Nacrene and Pinwheel",
+    "name": "Nacrene Gym - TM67 from Lenora",
+    "category": [
+      "Nacrene City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "[EVENT] Defeat Lenora",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Nacrene City"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Defeat Lenora"
+    ]
+  },
+  {
+    "region": "Nacrene and Pinwheel",
+    "name": "Nacrene City - Dowsing MCHN from Bianca",
+    "category": [
+      "Nacrene City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pinwheel Forest Exterior - Hidden Item Behind Fence Accesable from Nacrene City",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Exterior",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Pinwheel Forest Exterior - TM94 from Battle Girl",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Exterior",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pinwheel Forest Exterior - Item Between Trees and Fence",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Exterior"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pinwheel Forest Exterior - Item by Train Tracks",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Exterior"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pinwheel Forest Exterior - Hidden Item in Tiny Puddle NE of Dark Grass",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Exterior",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Pinwheel Forest Exterior - Item in SW Corner",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Exterior"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pinwheel Forest Exterior - Item Above Large Puddle",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Exterior"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pinwheel Forest Exterior - Hidden Item in SE part of Large Puddle",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Exterior",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Pinwheel Forest Exterior - Hidden Item in Flowers NE of the Large Rock",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Exterior",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Pinwheel Forest Exterior - Item on Small Ledge",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Exterior"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pinwheel Forest Interior - Item in South Grass",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Interior"
+    ],
+    "requires": "|[EVENT] Defeat Lenora|"
+  },
+  {
+    "name": "Pinwheel Forest Interior - Item West of Moss Rock",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Interior"
+    ],
+    "requires": "|[EVENT] Defeat Lenora|"
+  },
+  {
+    "name": "Pinwheel Forest Interior - Hidden Item in SW Corner of Moss Rock Area Left of Fence",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Interior",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Lenora| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Pinwheel Forest Interior - Item in Tree Stump 1",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Interior"
+    ],
+    "requires": "|[EVENT] Defeat Lenora|"
+  },
+  {
+    "name": "Pinwheel Forest Interior - Hidden Item in Tree Stump before First Tree Tunnel",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Interior",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Lenora| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Pinwheel Forest Interior - Item in Tree Stump 2",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Interior"
+    ],
+    "requires": "|[EVENT] Defeat Lenora|"
+  },
+  {
+    "name": "Pinwheel Forest Interior - Item in Grass South of Dragon Skull Event",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Interior"
+    ],
+    "requires": "|[EVENT] Defeat Lenora|"
+  },
+  {
+    "name": "[EVENT] Receive Dragon Skull",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Interior"
+    ],
+    "requires": "|[EVENT] Defeat Lenora|",
+    "place_item": [
+      "[EVENT] Receive Dragon Skull"
+    ]
+  },
+  {
+    "name": "Pinwheel Forest Interior - Moon Stone from Lenora",
+    "region": "Castelia",
+    "category": [
+      "Pinwheel Forest Interior"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pinwheel Forest Interior - Item East of Dragon Skull Event",
+    "region": "Castelia",
+    "category": [
+      "Pinwheel Forest Interior"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pinwheel Forest Interior East Area - Item in Tree Stump",
+    "region": "Castelia",
+    "category": [
+      "Pinwheel Forest Interior"
+    ],
+    "requires": "|[EVENT] Receive Bicycle|"
+  },
+  {
+    "name": "Pinwheel Forest Interior East Area - Item in Far East Grass",
+    "region": "Castelia",
+    "category": [
+      "Pinwheel Forest Interior"
+    ],
+    "requires": "|[EVENT] Receive Bicycle|"
+  },
+  {
+    "name": "Pinwheel Forest Interior East Area - Hidden Item South of Pond East of Bridge",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Pinwheel Forest Interior",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Receive Bicycle| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Pinwheel Forest Interior East Area - Item Beyond Pond and Bridges",
+    "region": "Castelia",
+    "category": [
+      "Pinwheel Forest Interior"
+    ],
+    "requires": "|[EVENT] Receive Bicycle| AND |HM03 Surf|"
+  },
+  {
+    "name": "Pinwheel Forest Interior - Hiker in Gate to Skyarrow Bridge",
+    "region": "Castelia",
+    "category": [
+      "Pinwheel Forest Interior",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Castelia City - Scientist's Evo Stone on Easternmost Pier",
+    "region": "Castelia",
+    "category": [
+      "Castelia City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Castelia Street - Hiker on 11F of West Building",
+    "region": "Castelia",
+    "category": [
+      "Castelia City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Battle Company 47F - Quick Balls from Male Clerk Top Right ",
+    "region": "Castelia",
+    "category": [
+      "Castelia City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Battle Company 47F - Timer Balls from Male Clerk Top Right ",
+    "region": "Castelia",
+    "category": [
+      "Castelia City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Battle Company 47F - Item in Bottom Left Corner",
+    "region": "Castelia",
+    "category": [
+      "Castelia City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Battle Company 55F - Item in Center",
+    "region": "Castelia",
+    "category": [
+      "Castelia City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Battle Company 55F - EXP Share from Defeating Janitor",
+    "region": "Castelia",
+    "category": [
+      "Castelia City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Narrow Street - TM70 Flash from Man Behind Dumpster",
+    "region": "Castelia",
+    "category": [
+      "Castelia City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Narrow Street - Cafe Sonata Manager",
+    "region": "Castelia",
+    "category": [
+      "Castelia City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gym Street - Gift from Iris in Team Plasma Hideout",
+    "region": "Castelia",
+    "category": [
+      "Castelia City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gym Street - Item in Team Plasma Hideout",
+    "region": "Castelia",
+    "category": [
+      "Castelia City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Central Plaza - Reward for Defeating 3 Dancers",
+    "region": "Castelia",
+    "category": [
+      "Castelia City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Northern Street - Girl on 47F of SE Building",
+    "region": "Castelia",
+    "category": [
+      "Castelia City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Northern Street - Scientist in NE Building 20 Pokemon Seen Reward ",
+    "region": "Castelia",
+    "category": [
+      "Castelia City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Castelia Gym - Fresh Water from Gym Guide",
+    "region": "Castelia",
+    "category": [
+      "Castelia City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Castelia Gym - Insect Badge from Burgh",
+    "region": "Castelia",
+    "category": [
+      "Castelia City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Castelia Gym - TM76 from Burgh",
+    "region": "Castelia",
+    "category": [
+      "Castelia City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "[EVENT] Defeat Burgh",
+    "region": "Castelia",
+    "category": [
+      "Castelia City"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Defeat Burgh"
+    ]
+  },
+  {
+    "name": "Route 4 - Item NW of South Gate",
+    "region": "Castelia",
+    "category": [
+      "Route 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 4 - Hidden Item SE of Fisherman on Shore of Water in SW",
+    "region": "Castelia",
+    "category": [
+      "Route 4",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 4 - Item West of Parasol Lady",
+    "region": "Castelia",
+    "category": [
+      "Route 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 4 - Hidden Item East of Parasol Lady where the Fence Indents",
+    "region": "Castelia",
+    "category": [
+      "Route 4",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 4 - Item NE of Parasol Lady",
+    "region": "Castelia",
+    "category": [
+      "Route 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 4 - Hidden Item Surrounded by Buildings Under Construction",
+    "region": "Castelia",
+    "category": [
+      "Route 4",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 4 - Hidden Item Next to Building Under Construction",
+    "region": "Castelia",
+    "category": [
+      "Route 4",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 4 - Item Next to Building Under Construction",
+    "region": "Castelia",
+    "category": [
+      "Route 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 4 - Item Next to Southern Backpacker",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Route 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 4 - Item Along Central Fence",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Route 4"
+    ],
+    "requires": []
+  },  
+  {
+    "name": "Route 4 - Item Next to Northern Backpacker",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Route 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 4 - Hidden Item NE of Northern Backpacker",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Route 4",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 4 - Worker in NW Building",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Route 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 4 - Ultra Balls from Prof Juniper in North Gate",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Route 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Resort - Item in Divot West of Backpacker",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Desert Resort"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Resort - Gift from Man in Black",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Desert Resort",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Resort - Item in Divot North of Psychic",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Desert Resort"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Resort - Hidden Item in NE Corner",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Desert Resort",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Desert Resort - Item on Hill NW of Backpacker",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Desert Resort"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Resort - Hidden Item NW of Item on Hill",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Desert Resort",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Desert Resort - Item in NW Corner",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Desert Resort"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Resort - Item in Divot SE of Circling Psychic",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Desert Resort"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Resort - Hidden Item NW of Female Ranger",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Desert Resort",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Desert Resort - Item in SW Corner",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Desert Resort"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Resort - Item NW of Pacing Psychic",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Desert Resort"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Resort - Hidden Item SE of Pacing Psychic",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Desert Resort",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Relic Castle 1F - Fossil from Backpacker",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Relic Castle",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Relic Castle B1F - Item in Center",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Relic Castle"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nimbasa City - Bicycle from Day-Care Man",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Nimbasa City"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Desert and Nimbasa",
+    "name": "[EVENT] Receive Bicycle",
+    "category": [
+      "Nimbasa City"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Receive Bicycle"
+    ]
+  },
+  {
+    "name": "Nimbasa City - Ace Trainer in Building NW of PC",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Nimbasa City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nimbasa City - Socialite in Building NW of PC for High Freindship",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Nimbasa City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nimbasa City - Ace Trainer in Building North of PC 2F",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Nimbasa City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nimbasa City - Ace Trainer Exiting Battle Subway",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Nimbasa City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nimbasa City - Item South of Ferris Wheel",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Nimbasa City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nimbasa City - Hidden Item SE of Ferris Wheel",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Nimbasa City",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Pokemon Musical - Prop Case from Owner",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Nimbasa City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pokemon Musical - Girl Next to Reception Counter",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Nimbasa City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nimbasa City - Baseball Player in East Gate",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Nimbasa City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nimbasa Gym - Fresh Water from Gym Guide",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Nimbasa City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nimbasa Gym - Bolt Badge from Elesa",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Nimbasa City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nimbasa Gym - TM72 from Elesa",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Nimbasa City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "[EVENT] Defeat Elesa",
+    "region": "Desert and Nimbasa",
+    "victory": false,
+    "category": [
+      "Nimbasa City"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Defeat Elesa"
+    ]
+  },
+  {
+    "name": "Route 16 - Item North of Cut Tree",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Route 16"
+    ],
+    "requires": "|HM01 Cut|"
+  },
+  {
+    "name": "Route 16 - Item Past Strength Rock East",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Route 16"
+    ],
+    "requires": "|HM04 Strength|"
+  },
+  {
+    "name": "Route 16 - Item Past Strength Rock North",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Route 16"
+    ],
+    "requires": "|HM04 Strength|"
+  },
+  {
+    "name": "Lostlorn Forest - Item in Tree Stump",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Lostlorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lostlorn Forest - Item Up Waterfall",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Lostlorn Forest"
+    ],
+    "requires": "|HM03 Surf| AND |HM05 Waterfall|"
+  },
+  {
+    "name": "Route 5 - Item Below Southern Fence",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Route 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 5 - Item East of Backpacker",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Route 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 5 - Item South of Dark Grass",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Route 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 5 - Item West of Dark Grass",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Route 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Driftveil City - Woman in PC Up Stairs",
+    "region": "Lower West Unova",
+    "category": [
+      "Driftveil City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Driftveil City - Man in House SE of PC 50 Pokemon Seen",
+    "region": "Lower West Unova",
+    "category": [
+      "Driftveil City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Driftveil City - Item at Narrow Path in NW Corner",
+    "region": "Lower West Unova",
+    "category": [
+      "Driftveil City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Driftveil City - Item in SW Corner of Market",
+    "region": "Lower West Unova",
+    "category": [
+      "Driftveil City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Driftveil City - Hidden Item SE of Sold-out Woman in Market",
+    "region": "Lower West Unova",
+    "category": [
+      "Driftveil City",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Driftveil City - Man in Black in Market for Having Lv 30+ Pokemon",
+    "region": "Lower West Unova",
+    "category": [
+      "Driftveil City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Driftveil City - Item on Lighthouse Island",
+    "region": "Lower West Unova",
+    "category": [
+      "Driftveil City"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Driftveil Gym - Fresh Water from Gym Guide",
+    "region": "Lower West Unova",
+    "category": [
+      "Driftveil City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Driftveil Gym - Quake Badge from Clay",
+    "region": "Lower West Unova",
+    "category": [
+      "Driftveil City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "[EVENT] Defeat Clay",
+    "region": "Lower West Unova",
+    "category": [
+      "Driftveil City"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Defeat Clay"
+    ]
+  },
+  {
+    "name": "Driftveil City - HM02 Fly for Defeating Bianca",
+    "region": "Lower West Unova",
+    "category": [
+      "Driftveil City"
+    ],
+    "requires": "|[EVENT] Defeat Clay|"
+  },
+  {
+    "name": "Cold Storage Exterior - Worker Between Builings",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cold Storage Exterior - Hidden Item in NE Corner",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Cold Storage Exterior - Hidden Item in Trashcan Next to Vending Machine",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Cold Storage Exterior -  Item Below Southern Fence",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cold Storage Exterior - Item in East Dark Grass",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cold Storage Exterior - Hidden Item South of Dark Grass",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Cold Storage Exterior - Item Behind Storage Building West",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cold Storage Interior - Item Up Stairs by Entrance",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cold Storage Interior - Item East of First Ice Section",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cold Storage Interior - Item in Bottom Right Corner",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cold Storage Interior - Item in North",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cold Storage Interior - Item Inside Shipping Container",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 6 - Item Between Bridges",
+    "region": "Lower West Unova",
+    "category": [
+      "Route 6"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Route 6 - Item in Grass South of Mistralton Cave",
+    "region": "Lower West Unova",
+    "category": [
+      "Route 6"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Route 6 - Item Next to Research Lab",
+    "region": "Lower West Unova",
+    "category": [
+      "Route 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 6 - Item in Grass South of Research Lab",
+    "region": "Lower West Unova",
+    "category": [
+      "Route 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 6 - Item in Grass Between Puddles",
+    "region": "Lower West Unova",
+    "category": [
+      "Route 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 6 - Girl in Rest House",
+    "region": "Lower West Unova",
+    "category": [
+      "Route 6",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 6 - Hidden Item North of Research Lab 1",
+    "region": "Lower West Unova",
+    "category": [
+      "Route 6",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 6 - Hidden Item North of Research Lab 2",
+    "region": "Lower West Unova",
+    "category": [
+      "Route 6",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 6 - Hidden Item Next to Mistralton Cave Entrance",
+    "region": "Lower West Unova",
+    "category": [
+      "Route 6",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "region": "Lower West Unova",
+    "name": "[EVENT] Clay Removes Galvantula Web",
+    "category": [
+      "Route 6"
+    ],
+    "requires": "|[EVENT] Defeat Clay|",
+    "place_item": [
+      "[EVENT] Clay Removes Galvantula Web"
+    ]
+  },
+  {
+    "name": "Mistralton Cave 1F - Hidden Item on Rock South of Entrance",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "region": "Mistralton Cave",
+    "name": "Mistralton Cave 1F - Item in NE Corner",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mistralton Cave 1F - Hidden Item on Rock in NE Corner",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Mistralton Cave 1F - Item in North",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mistralton Cave 2F - Hidden Item on Rock in SW Corner",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Mistralton Cave 2F - Item in South",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mistralton Cave 2F - Hidden Item on Rock in SE",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Mistralton Cave 2F - Item in NW Corner",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mistralton Cave 2F - Item Next to Rock West",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mistralton Cave 2F - Hidden Item on Rock in NW",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Mistralton Cave 3F - Item in SW Corner",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mistralton Cave 3F - Item in NE Corner",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mistralton Cave 3F - Hidden Item on Rock in NE",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Mistralton Cave 3F - Item South of Cobalion",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mistralton Cave 3F - Hidden Item on Rock South of Cobalion Behind Item Ball",
+    "region": "Mistralton Cave",
+    "category": [
+      "Mistralton Cave",
+      "Cobalion",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Mistralton Cave - Defeat Cobalion",
+    "region": "Mistralton Cave",
+    "victory": true,
+    "category": [
+      "Mistralton Cave"
+    ],
+    "requires": "|@Badges:4|"
+  },
+  {
+    "name": "Route 6 - TM78 from Clay",
+    "region": "Far West Unova",
+    "category": [
+      "Route 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chargestone Cave 1F - Lucky Egg from Prof Juniper",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chargestone Cave 1F - Item Between Stairs and Pushable Crystal",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chargestone Cave 1F - Item in NW Corner",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chargestone Cave 1F - Item Below Scientist and 2 Pushable Crystals",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chargestone Cave 1F - Hidden Item NE of Pacing Ace Trainer",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Chargestone Cave 1F - Item next to Bridge with Shadow Triad",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chargestone Cave 1F - Item South of Bridge",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chargestone Cave 1F - Hidden Item South of Stairs Accessed from SW B1F",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Chargestone Cave 1F - Hidden Item in North Center Behind Pushable Crystal",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Chargestone Cave 1F - Item South of Northern Exit",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chargestone Cave B1F - Big Nugget Brother",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Far West Unova",
+    "name": "Chargestone Cave B1F - Little Nugget Brother",
+    "category": [
+      "Chargestone Cave",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chargestone Cave B1F - Hidden Item Near Up Stairs NW of Nugget Brothers",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Chargestone Cave B1F - Item North of Nugget Brothers",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chargestone Cave B1F - Hidden Item on Wall West of Doctor",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Chargestone Cave B1F - Item Below NW Stairs",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chargestone Cave B2F - Item Down West Stairs",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chargestone Cave B2F - Hidden Item on Wall Down West Stairs",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Chargestone Cave B2F - Item Down Narrow Path",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chargestone Cave B2F - Hidden Item in East",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Chargestone Cave B2F - Item in NE Corner",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mistralton City - Veteran in Cargo Service Building",
+    "region": "Far West Unova",
+    "category": [
+      "Mistralton City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mistralton City - Item Next to Eastern Airplane",
+    "region": "Far West Unova",
+    "category": [
+      "Mistralton City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mistralton City - Hidden Item South of Runway East",
+    "region": "Far West Unova",
+    "category": [
+      "Mistralton City",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Mistralton City - Hidden Item South of Runway SE",
+    "region": "Far West Unova",
+    "category": [
+      "Mistralton City",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Mistralton City - Hidden Item South of Runway West",
+    "region": "Far West Unova",
+    "category": [
+      "Mistralton City",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Mistralton Gym - Fresh Water from Gym Guide",
+    "region": "Far West Unova",
+    "category": [
+      "Mistralton City",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mistralton Gym - Jet Badge from Skyla",
+    "region": "Far West Unova",
+    "category": [
+      "Mistralton City"
+    ],
+    "requires": "|[EVENT] Ring Bell at Celestial Tower|"
+  },
+  {
+    "name": "Mistralton Gym - TM62 from Skyla",
+    "region": "Far West Unova",
+    "category": [
+      "Mistralton City"
+    ],
+    "requires": "|[EVENT] Ring Bell at Celestial Tower|"
+  },
+  {
+    "name": "[EVENT] Defeat Skyla",
+    "region": "Far West Unova",
+    "category": [
+      "Mistralton City"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Defeat Skyla"
+    ]
+  },
+  {
+    "name": "Mistralton City - Prize from Boy in House above PC for Defeating Skyla",
+    "region": "Far West Unova",
+    "category": [
+      "Mistralton City",
+      "NPC"
+    ],
+    "requires": "|[EVENT] Ring Bell at Celestial Tower|"
+  },
+  {
+    "name": "Route 7 - Item in NE Corner of First Grass Patch",
+    "region": "Far West Unova",
+    "category": [
+      "Route 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 7 - Girl in SW Corner",
+    "region": "Far West Unova",
+    "category": [
+      "Route 7",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 7 - Item in Grass South of Celestial Tower",
+    "region": "Far West Unova",
+    "category": [
+      "Route 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 7 - Item Beyond Grass East of Celestial Tower",
+    "region": "Far West Unova",
+    "category": [
+      "Route 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 7 - Item East of Dark Grass",
+    "region": "Far West Unova",
+    "category": [
+      "Route 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 7 - Hidden Item in Eastern Puddle South of Twist Mountain Entrance",
+    "region": "Far West Unova",
+    "category": [
+      "Route 7",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 7 - HM03 Surf from Alder",
+    "region": "Far West Unova",
+    "category": [
+      "Route 7"
+    ],
+    "requires": "|[EVENT] Defeat Skyla|"
+  },
+  {
+    "name": "[EVENT] Receive HM03 Surf from Alder",
+    "region": "Far West Unova",
+    "category": [
+      "Route 7"
+    ],
+    "requires": "|[EVENT] Defeat Skyla|",
+    "place_item": [
+      "[EVENT] Receive HM03 Surf from Alder"
+    ]
+  },
+  {
+    "name": "Celestial Tower 2F - Item West",
+    "region": "Far West Unova",
+    "category": [
+      "Celestial Tower"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Celestial Tower 2F - Item East",
+    "region": "Far West Unova",
+    "category": [
+      "Celestial Tower"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Celestial Tower 3F - Item East",
+    "region": "Far West Unova",
+    "category": [
+      "Celestial Tower"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Celestial Tower 4F - Item East",
+    "region": "Far West Unova",
+    "category": [
+      "Celestial Tower"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Celestial Tower 4F - Item West",
+    "region": "Far West Unova",
+    "category": [
+      "Celestial Tower"
+    ],
+    "requires": []
+  },
+  {
+    "name": "[EVENT] Ring Bell at Celestial Tower",
+    "region": "Far West Unova",
+    "category": [
+      "Celestial Tower"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Ring Bell at Celestial Tower"
+    ]
+  },
+  {
+    "name": "Twist Mountain 1F Outside - Item North",
+    "region": "Upper West Unova",
+    "category": [
+      "Twist Mountain",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Twist Mountain 1F Outside - Item South",
+    "region": "Upper West Unova",
+    "category": [
+      "Twist Mountain",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Twist Mountain 1F South - Hidden Item on Wall North of Hiker",
+    "region": "Upper West Unova",
+    "category": [
+      "Twist Mountain",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Twist Mountain 1F East - Hidden Item in Second Dirt Pile from the Left",
+    "region": "Upper West Unova",
+    "category": [
+      "Twist Mountain",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Twist Mountain 1F East - Item East",
+    "region": "Upper West Unova",
+    "category": [
+      "Twist Mountain",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Twist Mountain B1F East - Hidden Item in SE Dirt Pile",
+    "region": "Upper West Unova",
+    "category": [
+      "Twist Mountain",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Twist Mountain B1F Outside - Item East",
+    "region": "Upper West Unova",
+    "category": [
+      "Twist Mountain",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Twist Mountain B1F Outside - Item West",
+    "region": "Upper West Unova",
+    "category": [
+      "Twist Mountain",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Twist Mountain B1F West - Item in Center",
+    "region": "Upper West Unova",
+    "category": [
+      "Twist Mountain",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Twist Mountain B1F West - Hidden Item on Rock in Center",
+    "region": "Upper West Unova",
+    "category": [
+      "Twist Mountain",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Twist Mountain B1F West - Hidden Item in SW Corner",
+    "region": "Upper West Unova",
+    "category": [
+      "Twist Mountain",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Twist Mountain B1F West - Item in NW Corner",
+    "region": "Upper West Unova",
+    "category": [
+      "Twist Mountain",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Twist Mountain B3F Ice Rock - Item East",
+    "region": "Upper West Unova",
+    "category": [
+      "Twist Mountain",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icirrus City - Hidden Item on West Side of Giant Puddle",
+    "region": "Upper West Unova",
+    "category": [
+      "Icirrus City",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Icirrus City - Old Lady in PC",
+    "region": "Upper West Unova",
+    "category": [
+      "Icirrus City",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icirrus City - Hidden Item Far East of City Across Bridges 1",
+    "region": "Upper West Unova",
+    "category": [
+      "Icirrus City",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Icirrus City - Hidden Item Far East of City Across Bridges 2",
+    "region": "Upper West Unova",
+    "category": [
+      "Icirrus City",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Icirrus City - Prize from Quiz in House East of Gym",
+    "region": "Upper West Unova",
+    "category": [
+      "Icirrus City",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icirrus City - Fan Club Chairman for Raising a Pokemon's Level by 25 or More",
+    "region": "Upper West Unova",
+    "category": [
+      "Icirrus City",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icirrus Gym - Fresh Water from Gym Guide",
+    "region": "Upper West Unova",
+    "category": [
+      "Icirrus City",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icirrus Gym - Freeze Badge from Brycen",
+    "region": "Upper West Unova",
+    "category": [
+      "Icirrus City",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icirrus Gym - TM79 from Brycen",
+    "region": "Upper West Unova",
+    "category": [
+      "Icirrus City",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "[EVENT] Defeat Brycen",
+    "region": "Upper West Unova",
+    "category": [
+      "Icirrus City",
+      "Async"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Defeat Brycen"
+    ]
+  },
+  {
+    "name": "Dragonspiral Tower Entrance - Old Gateau from Cedric Juniper",
+    "region": "Upper West Unova",
+    "category": [
+      "Dragonspiral Tower",
+      "Async"
+    ],
+    "requires": "|[EVENT] Defeat Brycen|"
+  },
+  {
+    "name": "Dragonspiral Tower Exterior - Item East",
+    "region": "Upper West Unova",
+    "category": [
+      "Dragonspiral Tower",
+      "Async"
+    ],
+    "requires": "|[EVENT] Defeat Brycen| AND |HM03 Surf|"
+  },
+  {
+    "name": "Dragonspiral Tower Exterior - Hidden Item on Eastern Wall of Tower",
+    "region": "Upper West Unova",
+    "category": [
+      "Dragonspiral Tower",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Brycen| AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Dragonspiral Tower 2F - Item East",
+    "region": "Upper West Unova",
+    "category": [
+      "Dragonspiral Tower",
+      "Async"
+    ],
+    "requires": "|[EVENT] Defeat Brycen|"
+  },
+  {
+    "name": "Dragonspiral Tower 2F - Item on Broken Pillar",
+    "region": "Upper West Unova",
+    "category": [
+      "Dragonspiral Tower",
+      "Async"
+    ],
+    "requires": "|[EVENT] Defeat Brycen|"
+  },
+  {
+    "name": "Dragonspiral Tower 3F - Item in NE Corner",
+    "region": "Upper West Unova",
+    "category": [
+      "Dragonspiral Tower",
+      "Async"
+    ],
+    "requires": "|[EVENT] Defeat Brycen|"
+  },
+  {
+    "name": "Dragonspiral Tower 4F - Item on NE Platform",
+    "region": "Upper West Unova",
+    "category": [
+      "Dragonspiral Tower",
+      "Async"
+    ],
+    "requires": "|[EVENT] Defeat Brycen|"
+  },
+  {
+    "name": "Dragonspiral Tower 5F - Item on Inner Ring",
+    "region": "Upper West Unova",
+    "category": [
+      "Dragonspiral Tower",
+      "Async"
+    ],
+    "requires": "|[EVENT] Defeat Brycen|"
+  },
+  {
+    "name": "Dragonspiral Tower 5F - Item on Outer Ring",
+    "region": "Upper West Unova",
+    "category": [
+      "Dragonspiral Tower",
+      "Async"
+    ],
+    "requires": "|[EVENT] Defeat Brycen|"
+  },
+  {
+    "name": "Dragonspiral Tower 5F - Item on Middle Ring",
+    "region": "Upper West Unova",
+    "category": [
+      "Dragonspiral Tower",
+      "Async"
+    ],
+    "requires": "|[EVENT] Defeat Brycen|"
+  },
+  {
+    "name": "Dragonspiral Tower 6F - Item in NE Corner",
+    "region": "Upper West Unova",
+    "category": [
+      "Dragonspiral Tower",
+      "Async"
+    ],
+    "requires": "|[EVENT] Defeat Brycen|"
+  },
+  {
+    "name": "[EVENT] N Escapes On Reshiram/Zekrom",
+    "region": "Upper West Unova",
+    "category": [
+      "Dragonspiral Tower",
+      "Async"
+    ],
+    "requires": "|[EVENT] Defeat Brycen|",
+    "place_item": [
+      "[EVENT] N Escapes On Reshiram/Zekrom"
+    ]
+  },
+  {
+    "region": "Desert and Nimbasa",
+    "name": "Relic Castle B2F - Item in SE Corner",
+    "category": [
+      "Relic Castle",
+      "Async"
+    ],
+    "requires": "|[EVENT] N Escapes On Reshiram/Zekrom|"
+  },
+  {
+    "name": "Relic Castle B2F - Item in West Area",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Relic Castle",
+      "Async"
+    ],
+    "requires": "|[EVENT] N Escapes On Reshiram/Zekrom|"
+  },
+  {
+    "name": "Relic Castle B3F - Item South",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Relic Castle",
+      "Async"
+    ],
+    "requires": "|[EVENT] N Escapes On Reshiram/Zekrom|"
+  },
+  {
+    "name": "Relic Castle B3F - Item in SW Corner",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Relic Castle",
+      "Async"
+    ],
+    "requires": "|[EVENT] N Escapes On Reshiram/Zekrom|"
+  },
+  {
+    "name": "Relic Castle B4F - Item in NE",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Relic Castle",
+      "Async"
+    ],
+    "requires": "|[EVENT] N Escapes On Reshiram/Zekrom|"
+  },
+  {
+    "name": "Relic Castle B4F - Hidden Item in SE Dirt Pile",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Relic Castle",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] N Escapes On Reshiram/Zekrom| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "[EVENT] Confront Ghetsis at Relic Castle",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Relic Castle",
+      "Async"
+    ],
+    "requires": "|[EVENT] N Escapes On Reshiram/Zekrom|",
+    "place_item": [
+      "[EVENT] Confront Ghetsis at Relic Castle"
+    ]
+  },
+  {
+    "region": "Nacrene and Pinwheel",
+    "name": "Nacrene City - Light/Dark Stone from Lenora",
+    "category": [
+      "Nacrene City",
+      "Async"
+    ],
+    "requires": "|[EVENT] Confront Ghetsis at Relic Castle|"
+  },
+  {
+    "name": "[EVENT] Receive Light/Dark Stone",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Nacrene City",
+      "Async"
+    ],
+    "requires": "|[EVENT] Confront Ghetsis at Relic Castle|",
+    "place_item": [
+      "[EVENT] Receive Light/Dark Stone"
+    ]
+  },
+  {
+    "name": "Route 8 - Item in NW Corner",
+    "region": "Upper West Unova",
+    "category": [
+      "Route 8",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 8 - Item North of Western Pond",
+    "region": "Upper West Unova",
+    "category": [
+      "Route 8",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 8 - Hidden Item West of Moor of Icirrus Entrance",
+    "region": "Upper West Unova",
+    "category": [
+      "Route 8",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Route 8 - Item SE of Western Pond",
+    "region": "Upper West Unova",
+    "category": [
+      "Route 8",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 8 - Item East of Moor of Icirrus Entrance",
+    "region": "Upper West Unova",
+    "category": [
+      "Route 8",
+      "Async"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Route 8 - Parasol Lady Behind Sign by East Exit",
+    "region": "Upper West Unova",
+    "category": [
+      "Route 8",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "[EVENT] Defeat Route 8 Bianca",
+    "region": "Upper West Unova",
+    "category": [
+      "Route 8",
+      "Async"
+    ],
+    "requires": "|[EVENT] Receive Light/Dark Stone|",
+    "place_item": [
+      "[EVENT] Defeat Route 8 Bianca"
+    ]
+  },
+  {
+    "name": "Route 8 - Full Restores from Bianca",
+    "region": "North Central Unova",
+    "category": [
+      "Route 8",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Moor of Icirrus - Hidden Item Next to Trees North of Fisherman",
+    "region": "Upper West Unova",
+    "category": [
+      "Moor of Icirrus",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Moor of Icirrus - Item in North",
+    "region": "Upper West Unova",
+    "category": [
+      "Moor of Icirrus",
+      "Async"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Moor of Icirrus - Hidden Item in North",
+    "region": "Upper West Unova",
+    "category": [
+      "Moor of Icirrus",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Moor of Icirrus - Hidden Item on Ledge South of Pokemon Ranger",
+    "region": "Upper West Unova",
+    "category": [
+      "Moor of Icirrus",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Moor of Icirrus - Item in NE Beyond Pokemon Ranger",
+    "region": "Upper West Unova",
+    "category": [
+      "Moor of Icirrus",
+      "Async"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Moor of Icirrus - Item West of Pond After Strength Rock",
+    "region": "Upper West Unova",
+    "category": [
+      "Moor of Icirrus",
+      "Async"
+    ],
+    "requires": "|HM03 Surf| AND |HM04 Strength|"
+  },
+  {
+    "name": "Moor of Icirrus - Item Surrounded by Stumps South of Strength Rock",
+    "region": "Upper West Unova",
+    "category": [
+      "Moor of Icirrus",
+      "Async"
+    ],
+    "requires": "|HM03 Surf| AND |HM04 Strength|"
+  },
+  {
+    "name": "Tubeline Bridge - Battle Girl Running",
+    "region": "North Central Unova",
+    "category": [
+      "Tubeline Bridge",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 9 - Infielder Upon Entering Route",
+    "region": "North Central Unova",
+    "category": [
+      "Route 9",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 9 - Hidden Item South of Mall",
+    "region": "North Central Unova",
+    "category": [
+      "Route 9",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 9 - Item in Dark Grass West",
+    "region": "North Central Unova",
+    "category": [
+      "Route 9",
+      "Async"
+    ],
+    "requires": []
+  },
+   {
+    "name": "Route 9 - Hidden Item West of Dark Grass North of Challenger's Cave",
+    "region": "North Central Unova",
+    "category": [
+      "Route 9",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 9 - Item in Dark Grass South",
+    "region": "North Central Unova",
+    "category": [
+      "Route 9",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shopping Mall Nine - Item in Storage Room",
+    "region": "North Central Unova",
+    "category": [
+      "Shopping Mall Nine",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shopping Mall Nine - Worker on Top Floor",
+    "region": "North Central Unova",
+    "category": [
+      "Shopping Mall Nine",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Opelucid City - Gentleman in Westernmost House",
+    "region": "North Central Unova",
+    "category": [
+      "Opelucid City",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Opelucid City - Hidden Item South of Pokemon Center",
+    "region": "North Central Unova",
+    "category": [
+      "Opelucid City",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Opelucid City - Hidden Item on Path Just East of Gym",
+    "region": "North Central Unova",
+    "category": [
+      "Opelucid City",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Opelucid City - Girl in House Next to Gym",
+    "region": "North Central Unova",
+    "category": [
+      "Opelucid City",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Opelucid City - Linebacker on Second Floor of Drayden's House",
+    "region": "North Central Unova",
+    "category": [
+      "Opelucid City",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Opelucid City - Girl on Second Floor of Drayden's House",
+    "region": "North Central Unova",
+    "category": [
+      "Opelucid City",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Opelucid Gym - Fresh Water from Gym Guide",
+    "region": "North Central Unova",
+    "category": [
+      "Opelucid City",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Opelucid Gym - Legend Badge from Iris/Drayden",
+    "region": "North Central Unova",
+    "category": [
+      "Opelucid City",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "region": "North Central Unova",
+    "name": "Opelucid Gym - TM82 from Iris/Drayden",
+    "category": [
+      "Opelucid City",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "[EVENT] Defeat Iris/Drayden",
+    "region": "North Central Unova",
+    "category": [
+      "Opelucid City",
+      "Async"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Defeat Iris/Drayden"
+    ]
+  },
+  {
+    "name": "Opelucid City - Master Ball from Prof Juniper",
+    "region": "North Central Unova",
+    "category": [
+      "Opelucid City",
+      "Async"
+    ],
+    "requires": "|[EVENT] Defeat Iris/Drayden|"
+  },
+  {
+    "name": "Route 10 - Item on Right Side of West Grass",
+    "region": "North Central Unova",
+    "category": [
+      "Route 10",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 10 - Hidden Item on High Ledge North of West Grass",
+    "region": "North Central Unova",
+    "category": [
+      "Route 10",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 10 - Item in Dark Grass NE of Northern Bridge 1",
+    "region": "North Central Unova",
+    "category": [
+      "Route 10",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 10 - Item in Dark Grass NE of Northern Bridge 2",
+    "region": "North Central Unova",
+    "category": [
+      "Route 10",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 10 - Veteran South of Northern Bridge",
+    "region": "North Central Unova",
+    "category": [
+      "Route 10",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 10 - Item on Ledge in Center",
+    "region": "North Central Unova",
+    "category": [
+      "Route 10",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 10 - Item Below Ledge South of Badge Gates",
+    "region": "North Central Unova",
+    "category": [
+      "Route 10",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 10 - Max Revives from Bianca for Defeating Cheren",
+    "region": "North Central Unova",
+    "category": [
+      "Route 10",
+      "Async"
+    ],
+    "requires": "|[EVENT] Defeat Iris/Drayden|"
+  },
+  {
+    "name": "[EVENT] Defeat Dreamyard Grunts",
+    "region": "Southeast Unova",
+    "category": [
+      "Dreamyard"
+    ],
+    "requires": "|HM01 Cut| AND |[EVENT] Defeat Striaton Gym|",
+    "place_item": [
+      "[EVENT] Defeat Dreamyard Grunts"
+    ]
+  },
+  {
+    "name": "Route 1 - Item in Far West",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 1 - Hidden Item in second to last tree SE of Westen Gate",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 1",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 1 - Item SE of Westen Gate",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 17 - Item in Shallow Water NW of Fisherman",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 17"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 17 - Item in Shallow Water Surrounded by Currents",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 17"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 17 - Hidden Item on Rock North of Northermost Shallow Water",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 17",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 17 - Hidden Item on Rocky Terrain West of North Male Swimmer",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 17",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 17 - Hidden Item on South Side of Big Rock West of North Female Swimmer",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 17",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 18 - Item in SE Corner of Grass South of Shack",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 18"
+    ],
+    "requires": "|HM04 Strength|"
+  },
+  {
+    "name": "Route 18 - Item in South End of Grass West of Shack",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 18"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 18 - Item Past Strength Rock next to Backpacker",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 18"
+    ],
+    "requires": "|HM04 Strength|"
+  },
+  {
+    "name": "Route 18 - Hidden Item on Rock Past Strength Rock next to Backpacker",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 18",
+      "Hidden Items"
+    ],
+    "requires": "|HM04 Strength| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Route 18 - Hidden Item on Beach 7 Tiles South of Small Rock",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 18",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 18 - Hidden Item on Beach 3 Tiles South and one tile West of Small Rock",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 18",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 18 - Item North of SE Stairs",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 18"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 18 - Item in NW Corner of Dark Grass",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 18"
+    ],
+    "requires": []
+  },
+  {
+    "name": "P2 Laboratory - Item in SW Corner of Island",
+    "region": "Southeast Unova Water",
+    "category": [
+      "P2 Laboratory"
+    ],
+    "requires": []
+  },
+  {
+    "name": "P2 Laboratory - Item Inside Lab",
+    "region": "Southeast Unova Water",
+    "category": [
+      "P2 Laboratory"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Victory Road 1F - Item in NW Corner of First Room",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Victory Road 1F - Item Across Pond in East Room",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Victory Road 1F - Hidden Item in Cave Down Slope from 7F 1",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Victory Road 1F - Hidden Item in Cave Down Slope from 7F 2",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Victory Road 1F Outside - Item on Westernmost Edge Accessed from 4F",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Victory Road 1F Outside - Item Down Slope from 7F",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Victory Road 2F - Hidden Item on Raised Platform",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Victory Road 2F Outside - Item Down Slope from 3F",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Victory Road 3F - Hidden Item on Rock SE of Veteran",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Victory Road 3F - Item North of Black Belt Accessed from 1F Slope Item",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Victory Road 4F Outside - Item on Ledge Accesable from Mid 3F Entrance",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Victory Road 4F - Hidden Item on Westernmost Rock in Western Cave",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Victory Road 4F - Hidden Item Between Rocks East of Veteran in Eastern Cave",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Victory Road 4F - Hidden Item Between Rocks Far North in Eastern Cave",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Victory Road 4F - Item on Ledge by Sliding from 5F",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Victory Road 5F Outside - Item Left of Fence by Sliding from 7F",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Victory Road 6F Outside - Item on Ledge by Taking Left Exit",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "[EVENT] Defeat Elite Four",
+    "region": "Victory Road",
+    "category": [
+      "Pokemon League",
+      "Async"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Defeat Elite Four"
+    ]
+  },
+  {
+    "name": "N's Castle 2F - Item in Right Room",
+    "region": "Victory Road",
+    "category": [
+      "N's Castle",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "N's Castle 3F - Item in Center Room",
+    "region": "Victory Road",
+    "category": [
+      "N's Castle",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "N's Castle 3F - Team Plasma Grunt in Left Room",
+    "region": "Victory Road",
+    "category": [
+      "N's Castle",
+      "Async",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "N's Castle 4F - Item in N's Room",
+    "region": "Victory Road",
+    "category": [
+      "N's Castle",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "N's Castle 4F - Item in Center Room",
+    "region": "Victory Road",
+    "category": [
+      "N's Castle",
+      "Async"
+    ],
+    "requires": []
+  }
+]
