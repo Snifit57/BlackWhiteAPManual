@@ -1,6 +1,6 @@
 # Pokémon Black and White AP Manual
 ## About
-A Manual Randomizer for use with Pokémon Black and White, for use with the [Archipelago Manual](https://github.com/ManualForArchipelago) Project. This Manual randomizes all ground items, HMs, Badges, and items given by important characters. Options are included to add hidden items as well as items from all the other NPCs.
+A Manual Randomizer for use with Pokémon Black and White, for use with the [Archipelago Manual](https://github.com/ManualForArchipelago) Project. This Manual randomizes all ground items, HMs, Badges, and items given by important characters. Options are included to add hidden items as well as items from all the other NPCs. The latest stable release of the Manual AP World being in your Custom Worlds folder is required for this to work as expected.
 
 This AP World assumes you know how to add items to your game using [PKHeX](https://github.com/kwsch/PKHeX) (brief tutorial is included below)
 
