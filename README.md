@@ -48,3 +48,32 @@ Shoutouts to Linneus and their [Pokémon Platinum Manual](https://github.com/Lin
 - Randomize Hidden Items - Adds checks for the hidden items found throughout the game
 - Require Dowsing MCHN - Makes it so you need to receive the Dowsing MCHN before you are logically required to pick up hidden items
 - Include Mistralton Cave Items - Adds Mistralton Cave checks to the pool. This option was added to improve the Cobalion goal by preventing you from having to go through the cave twice if this is set to "false"
+
+## PKHeX Tutorial
+This will be a quick guide showing just enough about PKHeX to use this AP World properly.
+
+### Step 1: Download PKHeX
+1. Go to the link for the PKHex Github link at the top of this readme
+2. Click on Releases then download the zip file from assets
+3. Extract the zip file to whatever location you want
+### Step 2: Create a Save File
+1. Start a new game of vanilla or randomized Pokémon Black or White
+2. Save and quit your game when you can
+3. Locate your save file on your computer, you will need it for the next step
+### Step 3: Load Save in PKHeX
+1. Open PKHeX and then click File
+2. Click Open then select the save file you created earlier
+3. Now that you've loaded your File in PKHeX, go to the "SAV" tab and then we can start adding items
+### Step 4: Add Items to Your Game
+1. Click on "Items" and that will pop-up the inventory Editor. The pockets were mainly concerned with are the "Key Items" and "HMs & TMs" pockets
+2. Whenever you get an HM, TM70 Flash, the Super Rod, Bicycle, or Dowsing MCHN you can save your game and load the file to add them to your game. However, I recommend addling them all at once and then just not using them until they are "sent" to you
+3. To add an item click one of the empty slots and choose the item(s) you want
+4. Once you add all your items **Be sure to click on the count for every item and set it to the amount of that item you want**, in most cases this will be one
+5. Click Save on the inventory Editor window
+### Step 5: Adding Badges
+1. The only Badge that actually allows you to skip anything for adding it before the game normally gives it to you is the Legend Badge. That would allow you to skip the eighth gym and go straight to Victory Road
+2. To add Badges, click the "Trainer Info" button and in the window that pops up check mark the Badge(s) you want then click save
+### Step 6: Export Your Edited Save
+1. Go to File and then Export SAV
+2. Chose the save file that you loaded into PKHex (make sure the file type matches because the program defaults to .sav) and click Save
+3. Open your game and, if you did everthing right, your bag will have whatever items you add
