@@ -20,7 +20,7 @@ Shoutouts to Linneus and their [Pokémon Platinum Manual](https://github.com/Lin
  - Insect Badge to access the area of Route 4 North of the Cheren fight
  - Bolt Badge to access Driftveil City
  - Light/Dark Stone to initiate the Bianca fight and proceed to Tubeline Bridge
- - HM03 Surf to get any checks that require you to Surf
+ - HM03 Surf to get any checks that require you to Surf (Moor of Icirrus as well as two Route 8 checks require Surf due to the puddles freezing in Winter)
  - HM04 Strength to get checks behind Strength rocks
  - HM05 Waterfall to checks up Waterfalls (Currently only one check)
  - TM70 Flash to get checks in dark caves
