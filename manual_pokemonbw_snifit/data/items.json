@@ -1041,6 +1041,38 @@
     "filler": true
   },
   {
+    "count": "3",
+    "name": "Net Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Nest Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Luxury Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Premier Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
     "count": 1,
     "name": "Lucky Egg",
     "category": [
@@ -1439,6 +1471,62 @@
   },
   {
     "count": 1,
+    "name": "Helix Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dome Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Old Amber",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Root Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Claw Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Skull Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Armor Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
     "name": "[EVENT] Defeat Elite Four",
     "category": [
       "Events",
@@ -1559,7 +1647,7 @@
     "filler": true
   },
   {
-    "count": "1",
+    "count": "3",
     "name": "Dusk Ball",
     "category": [
       "Miscellaneous"
@@ -1637,5 +1725,595 @@
       "Key Items"
     ],
     "useful": true
-  }
+  },
+  {
+    "count": 7,
+    "name": "Sage's Will",
+    "category": [
+      "PostGame",
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fist Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sky Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Toxic Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Earth Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Stone Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Insect Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spooky Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Flame Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Splash Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Meadow Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Zap Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mind Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Icicle Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dread Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Draco Plate",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "DeepSeaScale",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "DeepSeaTooth",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dragon Scale",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dubious Disc",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Electirizer",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "King's Rock",
+    "category": [
+      "Held Items",
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Magmarizer",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Metal Coat",
+    "category": [
+      "Held Items",
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Oval Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Protector",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Razor Claw",
+    "category": [
+      "Held Items",
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Razor Fang",
+    "category": [
+      "Held Items",
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Reaper Cloth",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Up-Grade",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Prism Scale",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Stick",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Light Ball",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lucky Punch",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Metal Powder",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Quick Powder",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Soul Dew",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Thick Club",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Black Belt",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blackglasses",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Charcoal",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dragon Fang",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hard Stone",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Magnet",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Miracle Seed",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mystic Water",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "NeverMeltIce",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Poison Barb",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sharp Beak",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Silk Scarf",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "SilverPowder",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Soft Sand",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spell Tag",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "TwistedSpoon",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Psychic Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Fire Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Water Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Grass Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Electric Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Steel Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Bug Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Rock Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Ground Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Ghost Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Dark Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Fighting Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Dragon Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Ice Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Flying Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Poison Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Normal Gem",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 6,
+    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "category": [
+      "Events",
+      "PostGame"
+    ],
+    "progression": true
+  },
 ]
