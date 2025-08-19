@@ -19,7 +19,7 @@ manual_options["start_inventory_from_pool"] = StartInventoryPool
 if len(victory_names) > 1:
     goal = {'option_' + v: i for i, v in enumerate(victory_names)}
     manual_options['goal'] = type('goal', (Choice,), goal)
-    manual_options['goal'].__doc__ = "Choose your victory condition.\n# \n# Defeat Ghetsis - (Ideal for Asyncs) Collect all eight badges and defeat the elite four followed by N and Ghetsis.\n# Defeat Cobalion - (Sync friendly option) Collect four badges and defeat Cobalion at Mistralton Cave 3F.\n# All locations accessible after Route 7 (including areas you backtrack to) will be removed if your goal is to defeat Cobalion."
+    manual_options['goal'].__doc__ = "Choose your victory condition.\n# \n# Defeat Ghetsis - (Ideal for Asyncs) Collect all eight badges and defeat the elite four followed by N and Ghetsis.\n# Defeat Cobalion - (Sync friendly option) Collect four badges and defeat Cobalion at Mistralton Cave 3F.\n# Defeat Cynthia - (Requires Defeating Ghetsis) Confront Cynthia in Untella Town.\n# Become Champion - (Requires Defeating Ghetsis) Collect all Seven Sage's Wills and arrest the Sages, and then Defeat Alder.\n# All locations accessible after Route 7 (including areas you backtrack to) will be removed if your goal is to defeat Cobalion."
 
 if any(item.get('trap') for item in item_table):
     manual_options["filler_traps"] = FillerTrapPercent
