@@ -91,9 +91,10 @@
     "count": 1,
     "name": "HM06 Dive",
     "category": [
-      "HMs"
+      "HMs",
+      "PostGame"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1195,6 +1196,62 @@
   {
     "count": "12",
     "name": "Nugget",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "6",
+    "name": "Relic Gold",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "6",
+    "name": "Relic Silver",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "6",
+    "name": "Relic Copper",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Relic Vase",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Relic Statue",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Relic Band",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Relic Crown",
     "category": [
       "Valuable Items"
     ],
