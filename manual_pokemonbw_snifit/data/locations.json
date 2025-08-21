@@ -15,7 +15,7 @@
       "Nuvema Town"
     ],
     "requires": []
-  },  
+  },
   {
     "region": "Southeast Unova",
     "name": "Nuvema Town - Pokedex from Prof Juniper",
@@ -31,6 +31,41 @@
       "Nuvema Town"
     ],
     "requires": []
+  },
+  {
+    "name": "Nuvema Town - Prof Juniper Gift for 25 Seen in Unova Dex",
+    "region": "Southeast Unova",
+    "category": [
+      "Nuvema Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nuvema Town - Prof Juniper Gift for 60 Seen in Unova Dex",
+    "region": "Southeast Unova",
+    "category": [
+      "Nuvema Town",
+      "Async"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nuvema Town - Prof Juniper Gift for 115 Seen in Unova Dex",
+    "region": "Southeast Unova",
+    "category": [
+      "Nuvema Town",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "Nuvema Town - Super Rod from Looker",
+    "region": "Southeast Unova",
+    "category": [
+      "Nuvema Town",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
   },
   {
     "name": "Route 1 - Poké Balls from Prof Juniper",
@@ -281,6 +316,103 @@
       "Dreamyard"
     ],
     "requires": []
+  },
+  {
+    "name": "Dreamyard - Item East of Furnace",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "Dreamyard - TM from the Sage Gorm",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|",
+    "place_item": [
+      "[EVENT] Arrest a Sage other than Ghetsis"
+    ]
+  },
+  {
+    "name": "Dreamyard - Item in SW Corner",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "Dreamyard - Hidden Item on Barrel South of West Stairs",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "Dreamyard Basement - Hidden Item on Crate South of North Stairs",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "Dreamyard Basement - Hidden Item on Crate West of fallen Bookshelves",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "Dreamyard Basement - Hidden Item on Crate in SW",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "Dreamyard Basement - Item in SW",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "Dreamyard Basement - Item in NW Corner",
+    "region": "Nacrene and Pinwheel",
+    "category": [
+      "Dreamyard",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
   },
   {
     "name": "Route 3 - Hidden Item in Middle of Sandbox (Dowsing MCHN is never logically required)",
@@ -1148,6 +1280,15 @@
     "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
   },
   {
+    "name": "Desert Resort - RageCandyBar from Prof Juniper",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Desert Resort",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
     "name": "Relic Castle 1F - Fossil from Backpacker",
     "region": "Desert and Nimbasa",
     "category": [
@@ -1163,6 +1304,46 @@
       "Relic Castle"
     ],
     "requires": []
+  },
+  {
+    "name": "Relic Castle B3F - Hidden Item accessed through lower floor Maze",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Relic Castle",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "Relic Castle 1F - Item accessed through lower floor Maze",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Relic Castle",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "Relic Castle Maze - TM from the Sage Ryoku",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Relic Castle",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "region": "Desert and Nimbasa",
+    "category": [
+      "Relic Castle",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|",
+    "place_item": [
+      "[EVENT] Arrest a Sage other than Ghetsis"
+    ]
   },
   {
     "name": "Nimbasa City - Bicycle from Day-Care Man",
@@ -1564,6 +1745,27 @@
       "Cold Storage"
     ],
     "requires": []
+  },
+  {
+    "name": "Cold Storage Interior - TM from the Sage Zinzolin",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "region": "Lower West Unova",
+    "category": [
+      "Cold Storage",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|",
+    "place_item": [
+      "[EVENT] Arrest a Sage other than Ghetsis"
+    ]
   },
   {
     "name": "Route 6 - Item Between Bridges",
@@ -1987,6 +2189,27 @@
       "Chargestone Cave"
     ],
     "requires": []
+  },
+  {
+    "name": "Chargestone Cave B2F - TM from the Sage Bronius",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "region": "Far West Unova",
+    "category": [
+      "Chargestone Cave",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|",
+    "place_item": [
+      "[EVENT] Arrest a Sage other than Ghetsis"
+    ]
   },
   {
     "name": "Mistralton City - Veteran in Cargo Service Building",
@@ -2839,6 +3062,130 @@
     "requires": []
   },
   {
+    "name": "Challenger's Cave B1F - Hidden Item East of Stairs to 1F",
+    "region": "North Central Unova",
+    "category": [
+      "Challenger's Cave",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash|"
+  },
+  {
+    "name": "Challenger's Cave B1F - Hidden Item in Wall North of Stairs to B2F",
+    "region": "North Central Unova",
+    "category": [
+      "Challenger's Cave",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash|"
+  },
+  {
+    "name": "Challenger's Cave B1F - Item in NW Corner",
+    "region": "North Central Unova",
+    "category": [
+      "Challenger's Cave",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash|"
+  },
+  {
+    "name": "Challenger's Cave B1F - Item up Stairs South of Bridge",
+    "region": "North Central Unova",
+    "category": [
+      "Challenger's Cave",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash|"
+  },
+  {
+    "name": "Challenger's Cave B2F - Hidden Item on Rock near NE Corner",
+    "region": "North Central Unova",
+    "category": [
+      "Challenger's Cave",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+  },
+  {
+    "name": "Challenger's Cave B2F - Hidden Item on Rock near SE Corner",
+    "region": "North Central Unova",
+    "category": [
+      "Challenger's Cave",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+  },
+  {
+    "name": "Challenger's Cave B2F - Item under Bridge in SE Corner",
+    "region": "North Central Unova",
+    "category": [
+      "Challenger's Cave",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+  },
+  {
+    "name": "Challenger's Cave B2F - Hidden Item on Rock in SW Corner",
+    "region": "North Central Unova",
+    "category": [
+      "Challenger's Cave",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+  },
+  {
+    "name": "Challenger's Cave B2F - Hidden Item on Rock West of Veteran",
+    "region": "North Central Unova",
+    "category": [
+      "Challenger's Cave",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+  },
+  {
+    "name": "Challenger's Cave B2F - Item in Pit West",
+    "region": "North Central Unova",
+    "category": [
+      "Challenger's Cave",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+  },
+  {
+    "name": "Challenger's Cave B2F - Hidden Item on South end of Central Island",
+    "region": "North Central Unova",
+    "category": [
+      "Challenger's Cave",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+  },
+  {
+    "name": "Challenger's Cave B2F - Item in Middle of Central Island",
+    "region": "North Central Unova",
+    "category": [
+      "Challenger's Cave",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+  },
+  {
+    "name": "Challenger's Cave B2F - Item East of River North of Ledge",
+    "region": "North Central Unova",
+    "category": [
+      "Challenger's Cave",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+  },
+  {
     "name": "Opelucid City - Gentleman in Westernmost House",
     "region": "North Central Unova",
     "category": [
@@ -3166,6 +3513,27 @@
       "Route 18"
     ],
     "requires": []
+  },
+  {
+    "name": "Route 18 - TM from the Sage Rood",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 18",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  {
+    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "region": "Southeast Unova Water",
+    "category": [
+      "Route 18",
+      "PostGame"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|",
+    "place_item": [
+      "[EVENT] Arrest a Sage other than Ghetsis"
+    ]
   },
   {
     "name": "P2 Laboratory - Item in SW Corner of Island",
