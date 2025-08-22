@@ -364,7 +364,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four|"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Dreamyard Basement - Hidden Item on Crate South of North Stairs",
@@ -374,7 +374,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four|"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Dreamyard Basement - Hidden Item on Crate West of fallen Bookshelves",
@@ -384,7 +384,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four|"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Dreamyard Basement - Hidden Item on Crate in SW",
@@ -394,7 +394,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four|"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Dreamyard Basement - Item in SW",
@@ -1313,7 +1313,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four|"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Relic Castle 1F - Item accessed through lower floor Maze",
@@ -3069,7 +3069,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash|"
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B1F - Hidden Item in Wall North of Stairs to B2F",
@@ -3079,7 +3079,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash|"
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B1F - Item in NW Corner",
@@ -3107,7 +3107,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B2F - Hidden Item on Rock near SE Corner",
@@ -3117,7 +3117,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B2F - Item under Bridge in SE Corner",
@@ -3136,7 +3136,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B2F - Hidden Item on Rock West of Veteran",
@@ -3146,7 +3146,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B2F - Item in Pit West",
@@ -3165,7 +3165,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B2F - Item in Middle of Central Island",
@@ -3768,5 +3768,80 @@
       "Async"
     ],
     "requires": []
-  }
+  },
+  {
+    "name": "Route 11 - Item in NW Grass",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 11",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 11 - Hidden Item in Flowers South of Backpacker",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 11",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Route 11 - Hidden Item up North Waterfall on West Ledge",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 11",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND |HM05 Waterfall| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Route 11 - Item up North Waterfall on East Ledge",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 11",
+      "PostGame"
+    ],
+    "requires": "|HM03 Surf| AND |HM05 Waterfall|"
+  },
+  {
+    "name": "Route 11 - Item down South Waterfall in NE Corner",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 11",
+      "PostGame"
+    ],
+    "requires": "|HM03 Surf| AND |HM05 Waterfall|"
+  },
+  {
+    "name": "Village Bridge - Hidden Item in Trashcan South of Bridge",
+    "region": "Northeast Unova",
+    "category": [
+      "Village Bridge",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Village Bridge - Item on small Island North of Bridge",
+    "region": "Northeast Unova",
+    "category": [
+      "Village Bridge",
+      "PostGame"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Village Bridge - Item on piece of land supporting Center of Bridge",
+    "region": "Northeast Unova",
+    "category": [
+      "Village Bridge",
+      "PostGame"
+    ],
+    "requires": "|HM03 Surf|"
+  },
 ]
