@@ -3844,4 +3844,512 @@
     ],
     "requires": "|HM03 Surf|"
   },
-]
+  {
+    "name": "Village Bridge - Hidden Item NE of Grass Flute Player in NE",
+    "region": "Northeast Unova",
+    "category": [
+      "Village Bridge",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Village Bridge - Hidden Item SE of Grass Flute Player in NE",
+    "region": "Northeast Unova",
+    "category": [
+      "Village Bridge",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Village Bridge - Gift from Baker for delivering Sandwiches",
+    "region": "Northeast Unova",
+    "category": [
+      "Village Bridge",
+      "PostGame",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 12 - Item South of Gate to Village Bridge",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 12",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 12 - Item in Pit near Center of Route",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 12",
+      "PostGame"
+    ],
+    "requires": []
+  },  
+  {
+    "name": "Route 12 - Hidden Item in Northwest",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 12",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 12 - Hidden Item in North Center",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 12",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 12 - Hidden Item East of School Boy",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 12",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 12 - Hidden Item North of Male Breeder",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 12",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 12 - Item in Northeast",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 12",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lacunosa Town - Hidden Item in front of Policeman",
+    "region": "Northeast Unova",
+    "category": [
+      "Lacunosa Town",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Lacunosa Town - Hidden Item on Wall near NE Corner",
+    "region": "Northeast Unova",
+    "category": [
+      "Lacunosa Town",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 13 - Item Beyond Cut Trees South of Lass",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 13 - Gift from Wingull Girl for Returning All 3 Grams",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame",
+      "NPC"
+    ],
+    "requires": "|Gram 1| AND |Gram 2| AND |Gram 3|"
+  },
+  {
+    "name": "Route 13 - Item on Cliff South of Bridges 1",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 13 - Item on Cliff South of Bridges 2",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 13 - Old Man North of Narrow Strip of Beach",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 13 - Item in NE South of Entrance to Giant Chasm",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Route 13 - Hidden Item on Wall of Cliff Below Bridge",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Route 13 - Random Treasure from Man in Black",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 13 - Hidden Item in West Area South of House",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Route 13 - Item from Veteran in Far West House 1",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame",
+      "NPC"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Route 13 - Item from Veteran in Far West House 2",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame",
+      "NPC"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Route 13 - Hidden Item on Island with Dark Grass 1",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Route 13 - Hidden Item on Island with Dark Grass 2",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Route 13 - Item in Shallow Water NE of Dark Grass Island",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Route 13 - Parasol Lady South of Beach Umbrella",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 13 - Item on Cliff North of Strength Rock",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame"
+    ],
+    "requires": "|HM04 Strength|"
+  },
+  {
+    "name": "Route 13 - Item South of Southern Cut Tree",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 13 - Hidden Item on SE Beach 1",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 13 - Hidden Item on SE Beach 2",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 13 - Hidden Item on SE Beach 3",
+    "region": "Northeast Unova",
+    "category": [
+      "Route 13",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Giant Chasm Cave - Hidden Item on Rock NW of Entrance",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Giant Chasm Cave - Item past Strength Rock in SW",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame"
+    ],
+    "requires": "|HM04 Strength|"
+  },
+  {
+    "name": "Giant Chasm Cave - Hidden Item on Rock in NW Corner",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Giant Chasm Cave - Item past Strength Rock in NW",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame"
+    ],
+    "requires": "|HM04 Strength|"
+  },
+  {
+    "name": "Giant Chasm Cave - Hidden Item on Rock in North Center",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Giant Chasm Cave - Item past Strength Rock in NE",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame"
+    ],
+    "requires": "|HM04 Strength|"
+  },
+  {
+    "name": "Giant Chasm Forest - Item in SW Corner",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Giant Chasm Forest - Item North of Entrance",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Giant Chasm Forest - Item in NW Corner",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Giant Chasm Forest - Item in NW through Grass",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Giant Chasm Forest - Item in North through Dark Grass",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Giant Chasm Forest - Item South of Stairs within Dark Grass",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Giant Chasm Forest - Item in SE Corner",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Giant Chasm Forest - Item within Dark Grass in Central Area",
+    "region": "Giant Chasm",
+    "category": [
+      "Giant Chasm",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Undella Town - Gift from Man in PC",
+    "region": "Northeast Unova",
+    "category": [
+      "Undella Town",
+      "PostGame",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Undella Town - Dive NM from Girl West of PC",
+    "region": "Northeast Unova",
+    "category": [
+      "Undella Town",
+      "PostGame",
+      "NPC"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Undella Town - Item on Right Side of Mansion",
+    "region": "Northeast Unova",
+    "category": [
+      "Undella Town",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Undella Town - Defeat Cynthia",
+    "region": "Northeast Unova",
+    "victory": true,
+    "category": [
+      "Undella Town",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Undella Bay - Hidden Item on Beach Next to Town 1",
+    "region": "Northeast Unova",
+    "category": [
+      "Undella Bay",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Undella Bay - Hidden Item on Beach Next to Town 2",
+    "region": "Northeast Unova",
+    "category": [
+      "Undella Bay",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Undella Bay - Hidden Item on Rock in Water in NW",
+    "region": "Northeast Unova",
+    "category": [
+      "Undella Bay",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+] 
