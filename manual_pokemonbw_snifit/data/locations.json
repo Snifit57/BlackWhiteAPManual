@@ -4352,4 +4352,418 @@
     ],
     "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
+  {
+    "name": "Abyssal Ruins 1F West - North Item 1",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F West - South Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F West - Southeast Item 1",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F West - Southeast Item 2",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F West - East Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F West - North Item 2",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F North - Item East of Entrance",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F North - Item West of Entrance",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F North - Item in Far West",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F North - East Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F North - Item North of Center",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F East - North Item 1",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F East - North Item 2",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F East - West Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F East - South Item 1",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F East - South Item 2",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F East - Item near Center",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F Center - East Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F Center - North Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F South - Item next to Entrance",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F South - East Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F South - North Item 1",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F South - North Item 2",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F South - Northwest Item 1",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F South - Northwest Item 2",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 1F South - West Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 2F - Item West of Center",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 2F - Southwest Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 2F - Item South of Center",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 2F - Item East of Center",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 2F - Southeast Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 2F - East Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 2F - Northeast Item 1",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 2F - Northeast Item 2",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 2F - Northeast Item 3",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 2F - Northwest Item 1",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 2F - Northwest Item 2",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abyssal Ruins 3F - West Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": "|TM70 Flash|"
+  },
+  {
+    "name": "Abyssal Ruins 3F - Northwest Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": "|TM70 Flash|"
+  },
+  {
+    "name": "Abyssal Ruins 3F - Center Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": "|TM70 Flash|"
+  },
+  {
+    "name": "Abyssal Ruins 3F - Southwest Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": "|TM70 Flash|"
+  },
+  {
+    "name": "Abyssal Ruins 3F - Item South of Center",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": "|TM70 Flash|"
+  },
+  {
+    "name": "Abyssal Ruins 3F - Southeast Item",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": "|TM70 Flash|"
+  },
+  {
+    "name": "Abyssal Ruins 3F - Northeast Item 1",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": "|TM70 Flash|"
+  },
+  {
+    "name": "Abyssal Ruins 3F - Northeast Item 2",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": "|TM70 Flash|"
+  },
+  {
+    "name": "Abyssal Ruins 4F - Item in Center",
+    "region": "Abyssal Ruins",
+    "category": [
+      "Abyssal Ruins",
+      "PostGame"
+    ],
+    "requires": "|TM70 Flash| AND |HM04 Strength|"
+  },
 ] 
