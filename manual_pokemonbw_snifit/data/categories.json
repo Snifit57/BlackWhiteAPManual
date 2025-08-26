@@ -20,4 +20,7 @@
       "include_mistralton_cave_items"
     ]
   }
+  "PostGame": {
+    "hidden": true
+  }
 }
