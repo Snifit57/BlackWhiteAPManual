@@ -1266,6 +1266,22 @@
     "filler": true
   },
   {
+    "count": "10",
+    "name": "Big Mushroom",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Balm Mushroom",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
     "count": 1,
     "name": "[EVENT] Defeat Brycen",
     "category": [
@@ -1788,7 +1804,8 @@
     "name": "Sage's Will",
     "category": [
       "PostGame",
-      "Key Items"
+      "Key Items",
+      "Wills"
     ],
     "progression": true
   },
@@ -2369,8 +2386,18 @@
     "name": "[EVENT] Arrest a Sage other than Ghetsis",
     "category": [
       "Events",
+      "PostGame",
+      "Sages"
+    ],
+    "progression": true
+  }
+  {
+    "count": 1,
+    "name": "[EVENT] Talk to Lady in House with Four Patrat",
+    "category": [
+      "Events",
       "PostGame"
     ],
     "progression": true
-  },
+  }
 ]
