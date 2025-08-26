@@ -54,7 +54,13 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
         locationNamesToRemove.extend(
             i["name"] for i in location_table if "Async" in i.get("category", []))
 
-    
+    if get_option_value(multiworld, player, "goal") == 1:
+        locationNamesToRemove.extend(
+            i["name"] for i in location_table if "PostGame" in i.get("category", []))
+
+    if get_option_value(multiworld, player, "goal") == 0:
+        locationNamesToRemove.extend(
+            i["name"] for i in location_table if "PostGame" in i.get("category", []))
 
     for region in multiworld.regions:
         if region.player == player:
@@ -86,7 +92,13 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         itemNamesToRemove.extend(
             i["name"] for i in item_table if "Async" in i.get("category", []))
 
-    
+    if get_option_value(multiworld, player, "goal") == 1:
+        itemNamesToRemove.extend(
+            i["name"] for i in item_table if "PostGame" in i.get("category", []))
+
+    if get_option_value(multiworld, player, "goal") == 0:
+        itemNamesToRemove.extend(
+            i["name"] for i in item_table if "PostGame" in i.get("category", []))
 
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
@@ -199,5 +211,6 @@ def before_extend_hint_information(hint_data: dict[int, dict[int, str]], world: 
 
 def after_extend_hint_information(hint_data: dict[int, dict[int, str]], world: World, multiworld: MultiWorld, player: int) -> None:
     pass
+
 
 
