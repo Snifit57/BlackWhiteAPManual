@@ -2399,5 +2399,42 @@
       "PostGame"
     ],
     "progression": true
-  }
+  },
+  {
+    "count": 1,
+    "name": "Gram 1",
+    "category": [
+      "Key Items",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gram 2",
+    "category": [
+      "Key Items",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gram 3",
+    "category": [
+      "Key Items",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Talk to Lady in House with Four Patrat",
+    "category": [
+      "Events",
+      "PostGame",
+      "Sages"
+    ],
+    "progression": true
+  },
 ]
