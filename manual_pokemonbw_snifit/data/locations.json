@@ -4838,15 +4838,6 @@
     "requires": []
   },
   {
-    "name": "Abundant Shrine - Item West of House",
-    "region": "Abundant Shrine",
-    "category": [
-      "Abundant Shrine",
-      "PostGame"
-    ],
-    "requires": []
-  },
-  {
     "name": "Abundant Shrine - Hidden Item on North Wall of Pond West of House",
     "region": "Abundant Shrine",
     "category": [
