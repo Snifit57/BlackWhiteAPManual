@@ -3865,6 +3865,19 @@
     "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
   },
   {
+    "name": "[EVENT] Talk to Lady in House with Four Patrat",
+    "region": "Northeast Unova",
+    "category": [
+      "Village Bridge",
+      "PostGame",
+      "NPC"
+    ],
+    "place_item": [
+      "[EVENT] Talk to Lady in House with Four Patrat"
+    ],
+    "requires": []
+  },
+  {
     "name": "Village Bridge - Gift from Baker for delivering Sandwiches",
     "region": "Northeast Unova",
     "category": [
@@ -4766,4 +4779,241 @@
     ],
     "requires": "|TM70 Flash| AND |HM04 Strength|"
   },
+  {
+    "name": "Route 14 - Hidden Item on Wall East of Northernmost Bridge",
+    "region": "Central East Unova",
+    "category": [
+      "Route 14",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+  },
+  {
+    "name": "Route 14 - Item up Waterfall West of Bridges",
+    "region": "Central East Unova",
+    "category": [
+      "Route 14",
+      "PostGame"
+    ],
+    "requires": "|HM03 Surf| AND |HM05 Waterfall|"
+  },
+  {
+    "name": "Route 14 - Item across River North of Dark Grass",
+    "region": "Central East Unova",
+    "category": [
+      "Route 14",
+      "PostGame"
+    ],
+    "requires": "|HM03 Surf|"
+  },
+  {
+    "name": "Route 14 - TM from the Sage Giallo",
+    "region": "Central East Unova",
+    "category": [
+      "Route 14",
+      "PostGame"
+    ],
+    "requires": "|HM03 Surf| AND |HM05 Waterfall|"
+  },
+  {
+    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "region": "Central East Unova",
+    "category": [
+      "Route 14",
+      "PostGame"
+    ],
+    "requires": "|HM03 Surf| AND |HM05 Waterfall|"
+    "place_item": [
+      "[EVENT] Arrest a Sage other than Ghetsis"
+  },
+  {
+    "name": "Abundant Shrine - Item West of House",
+    "region": "Abundant Shrine",
+    "category": [
+      "Abundant Shrine",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abundant Shrine - Item West of House",
+    "region": "Abundant Shrine",
+    "category": [
+      "Abundant Shrine",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abundant Shrine - Hidden Item on North Wall of Pond West of House",
+    "region": "Abundant Shrine",
+    "category": [
+      "Abundant Shrine",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Abundant Shrine - Item NE of House",
+    "region": "Abundant Shrine",
+    "category": [
+      "Abundant Shrine",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abundant Shrine - Hidden Item on Ledge North of Running Youngster",
+    "region": "Abundant Shrine",
+    "category": [
+      "Abundant Shrine",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Abundant Shrine - Hidden Item SW of Lass Staring at Wall",
+    "region": "Abundant Shrine",
+    "category": [
+      "Abundant Shrine",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Abundant Shrine - West Item South of Lass",
+    "region": "Abundant Shrine",
+    "category": [
+      "Abundant Shrine",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abundant Shrine - Hidden Item down Narrow Path West of Shrine",
+    "region": "Abundant Shrine",
+    "category": [
+      "Abundant Shrine",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Abundant Shrine - Item SE of Youngster near Dark Grass",
+    "region": "Abundant Shrine",
+    "category": [
+      "Abundant Shrine",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abundant Shrine - Hidden Item North of Pond East of Shrine",
+    "region": "Abundant Shrine",
+    "category": [
+      "Abundant Shrine",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Abundant Shrine - Item Across Pond East of Shrine",
+    "region": "Abundant Shrine",
+    "category": [
+      "Abundant Shrine",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 15 - Hidden Item on Wall way North of Ranger",
+    "region": "Central East Unova",
+    "category": [
+      "Route 15",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 15 - Hidden Item on Big Rock East of Ranger",
+    "region": "Central East Unova",
+    "category": [
+      "Route 15",
+      "PostGame",
+      "Hidden Items"
+    ],
+    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+  },
+  {
+    "name": "Route 15 - Item through Dark Grass North of Strength Rock",
+    "region": "Central East Unova",
+    "category": [
+      "Route 15",
+      "PostGame"
+    ],
+    "requires": "|HM04 Strength|"
+  },
+  {
+    "name": "Route 15 - Item in SE Corner past Strength Rock",
+    "region": "Central East Unova",
+    "category": [
+      "Route 15",
+      "PostGame"
+    ],
+    "requires": "|HM04 Strength|"
+  },
+  {
+    "name": "Marvelous Bridge - Gift from Lady for Beating Patrat Minigame",
+    "region": "Central East Unova",
+    "category": [
+      "Marvelous Bridge",
+      "PostGame",
+      "NPC"
+    ],
+    "requires": "|[EVENT] Talk to Lady in House with Four Patrat|"
+  },
+  {
+    "name": "Marvelous Bridge - Gift from Shadow Triad 1",
+    "region": "Central East Unova",
+    "category": [
+      "Marvelous Bridge",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Marvelous Bridge - Gift from Shadow Triad 2",
+    "region": "Central East Unova",
+    "category": [
+      "Marvelous Bridge",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Marvelous Bridge - Gift from Shadow Triad 3",
+    "region": "Central East Unova",
+    "category": [
+      "Marvelous Bridge",
+      "PostGame"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pokemon League - Become Champion",
+    "region": "Victory Road",
+    "victory": true,
+    "category": [
+      "Pokemon League",
+      "PostGame"
+    ],
+    "requires": "|@Wills:7| AND |@Sages:6| AND |[EVENT] Defeat Elite Four|"
+  }
 ] 
