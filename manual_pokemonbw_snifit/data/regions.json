@@ -34,7 +34,8 @@
   },
   "North Central Unova": {
     "connects_to": [
-      "Victory Road"
+      "Victory Road",
+      "Northeast Unova"
     ],
     "requires": "|Light/Dark Stone| AND |[EVENT] Defeat Route 8 Bianca|"
   },
@@ -48,7 +49,8 @@
   },
   "Desert and Nimbasa": {
     "connects_to": [
-      "Lower West Unova"
+      "Lower West Unova",
+      "Central East Unova"
     ],
     "requires": "|[EVENT] Defeat Burgh| AND |Insect Badge|"
   },
@@ -61,5 +63,25 @@
   "Mistralton Cave": {
     "connects_to": [],
     "requires": "|HM04 Strength| AND |TM70 Flash| AND |HM03 Surf|"
+  },
+  "Northeast Unova": {
+    "connects_to": [
+      "Giant Chasm",
+      "Abyssal Ruins",
+      "Central East Unova"
+    ],
+    "requires": "|[EVENT] Defeat Elite Four|"
+  },
+  "Giant Chasm": {
+    "connects_to": [],
+    "requires": "|HM03 Surf|"
+  },
+  "Abyssal Ruins": {
+    "connects_to": [],
+    "requires": "|HM03 Surf| AND |HM06 Dive|"
+  },
+  "Central East Unova": {
+    "connects_to": [],
+    "requires": "|Machine Part| AND |[EVENT] Defeat Elite Four|"
   }
 }
