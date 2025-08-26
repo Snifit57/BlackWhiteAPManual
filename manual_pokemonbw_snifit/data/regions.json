@@ -81,7 +81,13 @@
     "requires": "|HM03 Surf| AND |HM06 Dive|"
   },
   "Central East Unova": {
-    "connects_to": [],
+    "connects_to": [
+      "Abundant Shrine"
+    ],
     "requires": "|Machine Part| AND |[EVENT] Defeat Elite Four|"
+  },
+  "Abundant Shrine": {
+    "connects_to": [],
+    "requires": "|HM03 Surf| AND |HM05 Waterfall|"
   }
 }
