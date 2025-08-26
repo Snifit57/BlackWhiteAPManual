@@ -32,6 +32,11 @@ class Async(DefaultOnToggle):
     """
     display_name = "Async"
 
+class PostGame(DefaultOnToggle):
+    """Adds all location checks that are only accessable after defeating the Elite Four and Ghetsis.
+    """
+    display_name = "PostGame"
+
 class NPC(DefaultOnToggle):
     """Shuffles optional items given to you by NPCs into the pool.
     """
@@ -67,3 +72,4 @@ def after_options_defined(options: dict) -> dict:
         'include_mistralton_cave_items': Cobalion
     })
     return options
+
