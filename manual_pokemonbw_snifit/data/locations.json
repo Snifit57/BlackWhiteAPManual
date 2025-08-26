@@ -336,7 +336,7 @@
     "requires": "|[EVENT] Defeat Elite Four|"
   },
   {
-    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "name": "[EVENT] Arrest the Sage Gorm",
     "region": "Nacrene and Pinwheel",
     "category": [
       "Dreamyard",
@@ -1334,7 +1334,7 @@
     "requires": "|[EVENT] Defeat Elite Four|"
   },
   {
-    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "name": "[EVENT] Arrest the Sage Ryoku",
     "region": "Desert and Nimbasa",
     "category": [
       "Relic Castle",
@@ -1756,7 +1756,7 @@
     "requires": "|[EVENT] Defeat Elite Four|"
   },
   {
-    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "name": "[EVENT] Arrest the Sage Zinzolin",
     "region": "Lower West Unova",
     "category": [
       "Cold Storage",
@@ -2200,7 +2200,7 @@
     "requires": "|[EVENT] Defeat Elite Four|"
   },
   {
-    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "name": "[EVENT] Arrest the Sage Bronius",
     "region": "Far West Unova",
     "category": [
       "Chargestone Cave",
@@ -3524,7 +3524,7 @@
     "requires": "|[EVENT] Defeat Elite Four|"
   },
   {
-    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "name": "[EVENT] Arrest the Sage Rood",
     "region": "Southeast Unova Water",
     "category": [
       "Route 18",
@@ -4817,7 +4817,7 @@
     "requires": "|HM03 Surf| AND |HM05 Waterfall|"
   },
   {
-    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "name": "[EVENT] Arrest the Sage Giallo",
     "region": "Central East Unova",
     "category": [
       "Route 14",
