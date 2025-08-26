@@ -4823,7 +4823,7 @@
       "Route 14",
       "PostGame"
     ],
-    "requires": "|HM03 Surf| AND |HM05 Waterfall|"
+    "requires": "|HM03 Surf| AND |HM05 Waterfall|",
     "place_item": [
       "[EVENT] Arrest a Sage other than Ghetsis"
     ]
