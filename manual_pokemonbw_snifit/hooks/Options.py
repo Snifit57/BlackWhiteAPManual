@@ -81,8 +81,9 @@ def after_options_defined(options: dict) -> dict:
         'require_dowsing_mchn': DowsingMCHN,
         'include_mistralton_cave_items': Cobalion,
         'require_flash': Flash,
-        'add_resort_pass': Resort Pass,
+        'add_resort_pass': Resort Pass
     })
     return options
+
 
 
