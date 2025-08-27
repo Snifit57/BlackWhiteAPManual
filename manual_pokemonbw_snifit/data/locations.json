@@ -552,7 +552,7 @@
     "category": [
       "Wellspring Cave"
     ],
-    "requires": "|HM03 Surf| AND |TM70 Flash|"
+    "requires": "|HM03 Surf| AND (|TM70 Flash| OR {YamlDisabled(require_flash)})"
   },
   {
     "name": "Wellspring Cave B1F - Hidden Item in SE Corner",
@@ -561,7 +561,7 @@
       "Wellspring Cave",
       "Hidden Items"
     ],
-    "requires": "|HM03 Surf| AND |TM70 Flash| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+    "requires": "|HM03 Surf| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Wellspring Cave B1F - Item on Ledge in Center",
@@ -569,7 +569,7 @@
     "category": [
       "Wellspring Cave"
     ],
-    "requires": "|HM03 Surf| AND |TM70 Flash|"
+    "requires": "|HM03 Surf| AND (|TM70 Flash| OR {YamlDisabled(require_flash)})"
   },
   {
     "name": "Wellspring Cave B1F - Item Down East Stairs",
@@ -577,7 +577,7 @@
     "category": [
       "Wellspring Cave"
     ],
-    "requires": "|HM03 Surf| AND |TM70 Flash|"
+    "requires": "|HM03 Surf| AND (|TM70 Flash| OR {YamlDisabled(require_flash)})"
   },
   {
     "name": "Wellspring Cave B1F - Hidden Item on Small Rock Just West of Center",
@@ -586,7 +586,7 @@
       "Wellspring Cave",
       "Hidden Items"
     ],
-    "requires": "|HM03 Surf| AND |TM70 Flash| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+    "requires": "|HM03 Surf| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Wellspring Cave B1F - Hidden Item in Raised Area North of SE Corner Item",
@@ -595,7 +595,7 @@
       "Wellspring Cave",
       "Hidden Items"
     ],
-    "requires": "|HM03 Surf| AND |TM70 Flash| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+    "requires": "|HM03 Surf| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Wellspring Cave B1F - Item Up North Stairs",
@@ -603,7 +603,7 @@
     "category": [
       "Wellspring Cave"
     ],
-    "requires": "|HM03 Surf| AND |TM70 Flash|"
+    "requires": "|HM03 Surf| AND (|TM70 Flash| OR {YamlDisabled(require_flash)})"
   },
   {
     "name": "Wellspring Cave B1F - Hidden Item on Wall in NE Corner",
@@ -612,7 +612,7 @@
       "Wellspring Cave",
       "Hidden Items"
     ],
-    "requires": "|HM03 Surf| AND |TM70 Flash| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+    "requires": "|HM03 Surf| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Nacrene City - Chesto Berries from Cheren",
@@ -1180,7 +1180,7 @@
   },
   {
     "name": "Desert Resort - Item in Divot West of Backpacker",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Desert Resort"
     ],
@@ -1188,7 +1188,7 @@
   },
   {
     "name": "Desert Resort - Gift from Man in Black",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Desert Resort",
       "NPC"
@@ -1197,7 +1197,7 @@
   },
   {
     "name": "Desert Resort - Item in Divot North of Psychic",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Desert Resort"
     ],
@@ -1205,7 +1205,7 @@
   },
   {
     "name": "Desert Resort - Hidden Item in NE Corner",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Desert Resort",
       "Hidden Items"
@@ -1214,7 +1214,7 @@
   },
   {
     "name": "Desert Resort - Item on Hill NW of Backpacker",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Desert Resort"
     ],
@@ -1222,7 +1222,7 @@
   },
   {
     "name": "Desert Resort - Hidden Item NW of Item on Hill",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Desert Resort",
       "Hidden Items"
@@ -1231,7 +1231,7 @@
   },
   {
     "name": "Desert Resort - Item in NW Corner",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Desert Resort"
     ],
@@ -1239,7 +1239,7 @@
   },
   {
     "name": "Desert Resort - Item in Divot SE of Circling Psychic",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Desert Resort"
     ],
@@ -1247,7 +1247,7 @@
   },
   {
     "name": "Desert Resort - Hidden Item NW of Female Ranger",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Desert Resort",
       "Hidden Items"
@@ -1256,7 +1256,7 @@
   },
   {
     "name": "Desert Resort - Item in SW Corner",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Desert Resort"
     ],
@@ -1264,7 +1264,7 @@
   },
   {
     "name": "Desert Resort - Item NW of Pacing Psychic",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Desert Resort"
     ],
@@ -1272,7 +1272,7 @@
   },
   {
     "name": "Desert Resort - Hidden Item SE of Pacing Psychic",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Desert Resort",
       "Hidden Items"
@@ -1281,7 +1281,7 @@
   },
   {
     "name": "Desert Resort - RageCandyBar from Prof Juniper",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Desert Resort",
       "PostGame"
@@ -1290,7 +1290,7 @@
   },
   {
     "name": "Relic Castle 1F - Fossil from Backpacker",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Relic Castle",
       "NPC"
@@ -1299,7 +1299,7 @@
   },
   {
     "name": "Relic Castle B1F - Item in Center",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Relic Castle"
     ],
@@ -1307,7 +1307,7 @@
   },
   {
     "name": "Relic Castle B3F - Hidden Item accessed through lower floor Maze",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Relic Castle",
       "PostGame",
@@ -1317,7 +1317,7 @@
   },
   {
     "name": "Relic Castle 1F - Item accessed through lower floor Maze",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Relic Castle",
       "PostGame"
@@ -1326,7 +1326,7 @@
   },
   {
     "name": "Relic Castle Maze - TM from the Sage Ryoku",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Relic Castle",
       "PostGame"
@@ -1335,7 +1335,7 @@
   },
   {
     "name": "[EVENT] Arrest the Sage Ryoku",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Relic Castle",
       "PostGame"
@@ -2755,7 +2755,7 @@
     ]
   },
   {
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "name": "Relic Castle B2F - Item in SE Corner",
     "category": [
       "Relic Castle",
@@ -2765,7 +2765,7 @@
   },
   {
     "name": "Relic Castle B2F - Item in West Area",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Relic Castle",
       "Async"
@@ -2774,7 +2774,7 @@
   },
   {
     "name": "Relic Castle B3F - Item South",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Relic Castle",
       "Async"
@@ -2783,7 +2783,7 @@
   },
   {
     "name": "Relic Castle B3F - Item in SW Corner",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Relic Castle",
       "Async"
@@ -2792,7 +2792,7 @@
   },
   {
     "name": "Relic Castle B4F - Item in NE",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Relic Castle",
       "Async"
@@ -2801,7 +2801,7 @@
   },
   {
     "name": "Relic Castle B4F - Hidden Item in SE Dirt Pile",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Relic Castle",
       "Async",
@@ -2811,7 +2811,7 @@
   },
   {
     "name": "[EVENT] Confront Ghetsis at Relic Castle",
-    "region": "Desert and Nimbasa",
+    "region": "Desert Resort",
     "category": [
       "Relic Castle",
       "Async"
@@ -3069,7 +3069,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B1F - Hidden Item in Wall North of Stairs to B2F",
@@ -3079,7 +3079,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B1F - Item in NW Corner",
@@ -3088,7 +3088,7 @@
       "Challenger's Cave",
       "PostGame"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash|"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|TM70 Flash| OR {YamlDisabled(require_flash)})"
   },
   {
     "name": "Challenger's Cave B1F - Item up Stairs South of Bridge",
@@ -3097,7 +3097,7 @@
       "Challenger's Cave",
       "PostGame"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash|"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|TM70 Flash| OR {YamlDisabled(require_flash)})"
   },
   {
     "name": "Challenger's Cave B2F - Hidden Item on Rock near NE Corner",
@@ -3107,7 +3107,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B2F - Hidden Item on Rock near SE Corner",
@@ -3117,7 +3117,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B2F - Item under Bridge in SE Corner",
@@ -3126,7 +3126,7 @@
       "Challenger's Cave",
       "PostGame"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND |HM03 Surf|"
   },
   {
     "name": "Challenger's Cave B2F - Hidden Item on Rock in SW Corner",
@@ -3136,7 +3136,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B2F - Hidden Item on Rock West of Veteran",
@@ -3146,7 +3146,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B2F - Item in Pit West",
@@ -3155,7 +3155,7 @@
       "Challenger's Cave",
       "PostGame"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND |HM03 Surf|"
   },
   {
     "name": "Challenger's Cave B2F - Hidden Item on South end of Central Island",
@@ -3165,7 +3165,7 @@
       "PostGame",
       "Hidden Items"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND |HM03 Surf| AND (|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)})"
   },
   {
     "name": "Challenger's Cave B2F - Item in Middle of Central Island",
@@ -3174,7 +3174,7 @@
       "Challenger's Cave",
       "PostGame"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND |HM03 Surf|"
   },
   {
     "name": "Challenger's Cave B2F - Item East of River North of Ledge",
@@ -3183,7 +3183,7 @@
       "Challenger's Cave",
       "PostGame"
     ],
-    "requires": "|[EVENT] Defeat Elite Four| AND |TM70 Flash| AND |HM03 Surf|"
+    "requires": "|[EVENT] Defeat Elite Four| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND |HM03 Surf|"
   },
   {
     "name": "Opelucid City - Gentleman in Westernmost House",
