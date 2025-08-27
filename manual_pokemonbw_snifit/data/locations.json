@@ -38,7 +38,7 @@
     "category": [
       "Nuvema Town"
     ],
-    "requires": []
+    "requires": "|[EVENT] Defeat Clay|"
   },
   {
     "name": "Nuvema Town - Prof Juniper Gift for 60 Seen in Unova Dex",
@@ -47,7 +47,7 @@
       "Nuvema Town",
       "Async"
     ],
-    "requires": []
+    "requires": "|[EVENT] Receive Light/Dark Stone|"
   },
   {
     "name": "Nuvema Town - Prof Juniper Gift for 115 Seen in Unova Dex",
