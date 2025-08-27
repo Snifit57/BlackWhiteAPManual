@@ -22,6 +22,11 @@
   },
   "PostGame": {
     "hidden": true
-  }
+  },
+  "ResortPass": {
+    "hidden": true,
+    "yaml_option": [
+      "add_resort_pass"
 }
+
 
