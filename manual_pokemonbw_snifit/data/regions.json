@@ -50,7 +50,8 @@
   "Desert and Nimbasa": {
     "connects_to": [
       "Lower West Unova",
-      "Central East Unova"
+      "Central East Unova",
+      "Desert Resort"
     ],
     "requires": "|[EVENT] Defeat Burgh| AND |Insect Badge|"
   },
@@ -89,5 +90,9 @@
   "Abundant Shrine": {
     "connects_to": [],
     "requires": "|HM03 Surf| AND |HM05 Waterfall|"
+  },
+  "Desert Resort": {
+    "connects_to": [],
+    "requires": "|Resort Pass|"
   }
 }
