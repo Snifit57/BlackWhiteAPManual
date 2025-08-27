@@ -93,6 +93,6 @@
   },
   "Desert Resort": {
     "connects_to": [],
-    "requires": "|Resort Pass|"
+    "requires": "|Resort Pass| OR {YamlDisabled(add_resort_pass)}"
   }
 }
