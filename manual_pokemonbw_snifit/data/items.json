@@ -2436,5 +2436,14 @@
       "Sages"
     ],
     "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Resort Pass",
+    "category": [
+      "Key Items",
+      "ResortPass"
+    ],
+    "progression": true
   }
 ]
