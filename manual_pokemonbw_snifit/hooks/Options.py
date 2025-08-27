@@ -57,6 +57,16 @@ class Cobalion(DefaultOnToggle):
     """
     display_name = "Mistralton Cave Items"
 
+class Flash(DefaultOnToggle):
+    """Items in or through dark areas require TM70 Flash in logic.
+    """
+    display_name = "Flash Logic"
+
+class ResortPass(DefaultOnToggle):
+    """Access to Desert Resort and Relic Castle logically requires the "Resort Pass".
+    """
+    display_name = "Resort Pass"
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
     return options
@@ -69,7 +79,10 @@ def after_options_defined(options: dict) -> dict:
         'include_npc_items': NPC,
         'randomize_hidden_items': HiddenItems,
         'require_dowsing_mchn': DowsingMCHN,
-        'include_mistralton_cave_items': Cobalion
+        'include_mistralton_cave_items': Cobalion,
+        'require_flash': Flash,
+        'add_resort_pass': Resort Pass,
     })
     return options
+
 
