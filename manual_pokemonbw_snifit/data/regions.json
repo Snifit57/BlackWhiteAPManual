@@ -63,7 +63,7 @@
   },
   "Mistralton Cave": {
     "connects_to": [],
-    "requires": "|HM04 Strength| AND |TM70 Flash| AND |HM03 Surf|"
+    "requires": "|HM04 Strength| AND (|TM70 Flash| OR {YamlDisabled(require_flash)}) AND |HM03 Surf|"
   },
   "Northeast Unova": {
     "connects_to": [
