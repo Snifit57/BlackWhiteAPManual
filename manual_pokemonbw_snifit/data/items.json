@@ -1803,6 +1803,7 @@
     "count": 7,
     "name": "Sage's Will",
     "category": [
+      "Key Items",
       "Wills",
       "PostGame"
     ],
@@ -2384,6 +2385,7 @@
     "count": 6,
     "name": "[EVENT] Arrest a Sage other than Ghetsis",
     "category": [
+      "Events",
       "Sages",
       "PostGame"
     ],
