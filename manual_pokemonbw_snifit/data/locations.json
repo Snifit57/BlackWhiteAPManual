@@ -415,13 +415,13 @@
     "requires": "|[EVENT] Defeat Elite Four|"
   },
   {
-    "name": "Route 3 - Hidden Item in Middle of Sandbox (Dowsing MCHN is never logically required)",
+    "name": "Route 3 - Hidden Item in Middle of Sandbox (Dowsing MCHN never logically required)",
     "region": "Nacrene and Pinwheel",
     "category": [
       "Route 3",
       "Hidden Items"
     ],
-    "requires": "|Dowsing MCHN| OR {YamlDisabled(require_dowsing_mchn)}"
+    "requires": []
   },
   {
     "name": "Route 3 - Item in Grass North",
@@ -1618,7 +1618,7 @@
       "Driftveil City",
       "NPC"
     ],
-    "requires": []
+    "requires": "[EVENT] Clear out Team Plasma"
   },
   {
     "name": "Driftveil Gym - Quake Badge from Clay",
@@ -1626,7 +1626,7 @@
     "category": [
       "Driftveil City"
     ],
-    "requires": []
+    "requires": "[EVENT] Clear out Team Plasma"
   },
   {
     "name": "[EVENT] Defeat Clay",
@@ -1634,7 +1634,7 @@
     "category": [
       "Driftveil City"
     ],
-    "requires": [],
+    "requires": "[EVENT] Clear out Team Plasma",
     "place_item": [
       "[EVENT] Defeat Clay"
     ]
@@ -1745,6 +1745,18 @@
       "Cold Storage"
     ],
     "requires": []
+  },
+  {
+    "name": "[EVENT] Clear out Team Plasma",
+    "region": "Lower West Unova",
+    "category": [
+      "Events",
+      "Cold Storage"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Clear out Team Plasma"
+    ]
   },
   {
     "name": "Cold Storage Interior - TM from the Sage Zinzolin",
@@ -3730,7 +3742,7 @@
       "N's Castle",
       "Async"
     ],
-    "requires": []
+    "requires": "[EVENT] Defeat Elite Four"
   },
   {
     "name": "N's Castle 3F - Item in Center Room",
@@ -3739,7 +3751,7 @@
       "N's Castle",
       "Async"
     ],
-    "requires": []
+    "requires": "[EVENT] Defeat Elite Four"
   },
   {
     "name": "N's Castle 3F - Team Plasma Grunt in Left Room",
@@ -3749,7 +3761,7 @@
       "Async",
       "NPC"
     ],
-    "requires": []
+    "requires": "[EVENT] Defeat Elite Four"
   },
   {
     "name": "N's Castle 4F - Item in N's Room",
@@ -3758,7 +3770,7 @@
       "N's Castle",
       "Async"
     ],
-    "requires": []
+    "requires": "[EVENT] Defeat Elite Four"
   },
   {
     "name": "N's Castle 4F - Item in Center Room",
@@ -3767,7 +3779,7 @@
       "N's Castle",
       "Async"
     ],
-    "requires": []
+    "requires": "[EVENT] Defeat Elite Four"
   },
   {
     "name": "Route 11 - Item in NW Grass",
