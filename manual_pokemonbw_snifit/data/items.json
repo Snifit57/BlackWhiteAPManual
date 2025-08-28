@@ -2432,8 +2432,7 @@
     "name": "[EVENT] Talk to Lady in House with Four Patrat",
     "category": [
       "Events",
-      "PostGame",
-      "Sages"
+      "PostGame"
     ],
     "progression": true
   },
