@@ -2262,7 +2262,7 @@
       "Mistralton City",
       "NPC"
     ],
-    "requires": []
+    "requires": "|[EVENT] Ring Bell at Celestial Tower|"
   },
   {
     "name": "Mistralton Gym - Jet Badge from Skyla",
@@ -2286,7 +2286,7 @@
     "category": [
       "Mistralton City"
     ],
-    "requires": [],
+    "requires": "|[EVENT] Ring Bell at Celestial Tower|",
     "place_item": [
       "[EVENT] Defeat Skyla"
     ]
