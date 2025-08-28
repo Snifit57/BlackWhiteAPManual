@@ -1800,8 +1800,68 @@
     "useful": true
   },
   {
-    "count": 7,
-    "name": "Sage's Will",
+    "count": 1,
+    "name": "Sage's Will 1",
+    "category": [
+      "Key Items",
+      "Wills",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sage's Will 2",
+    "category": [
+      "Key Items",
+      "Wills",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sage's Will 3",
+    "category": [
+      "Key Items",
+      "Wills",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sage's Will 4",
+    "category": [
+      "Key Items",
+      "Wills",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sage's Will 5",
+    "category": [
+      "Key Items",
+      "Wills",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sage's Will 6",
+    "category": [
+      "Key Items",
+      "Wills",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sage's Will 7",
     "category": [
       "Key Items",
       "Wills",
@@ -2382,8 +2442,58 @@
     "filler": true
   },
   {
-    "count": 6,
-    "name": "[EVENT] Arrest a Sage other than Ghetsis",
+    "count": 1,
+    "name": "[EVENT] Arrest the Sage Gorm",
+    "category": [
+      "Events",
+      "Sages",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Arrest the Sage Ryoku",
+    "category": [
+      "Events",
+      "Sages",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Arrest the Sage Zinzolin",
+    "category": [
+      "Events",
+      "Sages",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Arrest the Sage Bronius",
+    "category": [
+      "Events",
+      "Sages",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Arrest the Sage Rood",
+    "category": [
+      "Events",
+      "Sages",
+      "PostGame"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Arrest the Sage Giallo",
     "category": [
       "Events",
       "Sages",
