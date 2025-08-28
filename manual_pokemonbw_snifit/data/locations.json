@@ -344,7 +344,7 @@
     ],
     "requires": "|[EVENT] Defeat Elite Four|",
     "place_item": [
-      "[EVENT] Arrest a Sage other than Ghetsis"
+      "[EVENT] Arrest the Sage Gorm"
     ]
   },
   {
@@ -1342,7 +1342,7 @@
     ],
     "requires": "|[EVENT] Defeat Elite Four|",
     "place_item": [
-      "[EVENT] Arrest a Sage other than Ghetsis"
+      "[EVENT] Arrest the Sage Ryoku"
     ]
   },
   {
@@ -1764,7 +1764,7 @@
     ],
     "requires": "|[EVENT] Defeat Elite Four|",
     "place_item": [
-      "[EVENT] Arrest a Sage other than Ghetsis"
+      "[EVENT] Arrest the Sage Zinzolin"
     ]
   },
   {
@@ -2208,7 +2208,7 @@
     ],
     "requires": "|[EVENT] Defeat Elite Four|",
     "place_item": [
-      "[EVENT] Arrest a Sage other than Ghetsis"
+      "[EVENT] Arrest the Sage Bronius"
     ]
   },
   {
@@ -3532,7 +3532,7 @@
     ],
     "requires": "|[EVENT] Defeat Elite Four|",
     "place_item": [
-      "[EVENT] Arrest a Sage other than Ghetsis"
+      "[EVENT] Arrest the Sage Rood"
     ]
   },
   {
@@ -4825,7 +4825,7 @@
     ],
     "requires": "|HM03 Surf| AND |HM05 Waterfall|",
     "place_item": [
-      "[EVENT] Arrest a Sage other than Ghetsis"
+      "[EVENT] Arrest the Sage Giallo"
     ]
   },
   {
