@@ -100,6 +100,24 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         itemNamesToRemove.extend(
             i["name"] for i in item_table if "PostGame" in i.get("category", []))
 
+    if get_option_value(multiworld, player, "goal") == 1:
+        itemNamesToRemove.extend(
+            i["name"] for i in item_table if "Sages" in i.get("category", []))
+
+    if get_option_value(multiworld, player, "goal") == 0:
+        itemNamesToRemove.extend(
+            i["name"] for i in item_table if "Sages" in i.get("category", []))
+
+    if get_option_value(multiworld, player, "goal") == 1:
+        itemNamesToRemove.extend(
+            i["name"] for i in item_table if "Wills" in i.get("category", []))
+
+    if get_option_value(multiworld, player, "goal") == 0:
+        itemNamesToRemove.extend(
+            i["name"] for i in item_table if "Wills" in i.get("category", []))
+
+
+
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
@@ -211,6 +229,7 @@ def before_extend_hint_information(hint_data: dict[int, dict[int, str]], world: 
 
 def after_extend_hint_information(hint_data: dict[int, dict[int, str]], world: World, multiworld: MultiWorld, player: int) -> None:
     pass
+
 
 
 
