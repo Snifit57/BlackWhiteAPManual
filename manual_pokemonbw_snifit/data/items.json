@@ -16,7 +16,7 @@
     "filler": true
   },
   {
-    "count": "5",
+    "count": "10",
     "name": "Poké Ball",
     "category": [
       "Miscellaneous"
@@ -32,7 +32,7 @@
     "filler": true
   },
   {
-    "count": "10",
+    "count": "20",
     "name": "Ultra Ball",
     "category": [
       "Miscellaneous"
@@ -1318,7 +1318,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "5",
     "name": "Pearl",
     "category": [
       "Valuable Items"
@@ -1326,7 +1326,7 @@
     "filler": true
   },
   {
-    "count": "4",
+    "count": "6",
     "name": "Big Pearl",
     "category": [
       "Valuable Items"
@@ -1334,7 +1334,7 @@
     "filler": true
   },
   {
-    "count": "4",
+    "count": "6",
     "name": "Stardust",
     "category": [
       "Valuable Items"
@@ -1511,7 +1511,7 @@
     "filler": true
   },
   {
-    "count": "2",
+    "count": "3",
     "name": "Antidote",
     "category": [
       "Miscellaneous"
@@ -1519,7 +1519,7 @@
     "filler": true
   },
   {
-    "count": "2",
+    "count": "3",
     "name": "Burn Heal",
     "category": [
       "Miscellaneous"
@@ -1616,7 +1616,7 @@
     "useful": true
   },
   {
-    "count": "2",
+    "count": "3",
     "name": "Ice Heal",
     "category": [
       "Miscellaneous"
@@ -1624,7 +1624,7 @@
     "filler": true
   },
   {
-    "count": "2",
+    "count": "3",
     "name": "Awakening",
     "category": [
       "Miscellaneous"
