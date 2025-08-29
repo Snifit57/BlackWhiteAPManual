@@ -1618,7 +1618,7 @@
       "Driftveil City",
       "NPC"
     ],
-    "requires": "[EVENT] Clear out Team Plasma"
+    "requires": "|[EVENT] Clear out Team Plasma|"
   },
   {
     "name": "Driftveil Gym - Quake Badge from Clay",
@@ -1626,7 +1626,7 @@
     "category": [
       "Driftveil City"
     ],
-    "requires": "[EVENT] Clear out Team Plasma"
+    "requires": "|[EVENT] Clear out Team Plasma|"
   },
   {
     "name": "[EVENT] Defeat Clay",
@@ -1634,7 +1634,7 @@
     "category": [
       "Driftveil City"
     ],
-    "requires": "[EVENT] Clear out Team Plasma",
+    "requires": "|[EVENT] Clear out Team Plasma|",
     "place_item": [
       "[EVENT] Defeat Clay"
     ]
