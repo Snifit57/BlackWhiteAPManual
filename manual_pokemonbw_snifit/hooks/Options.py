@@ -43,7 +43,7 @@ class NPC(DefaultOnToggle):
     display_name = "NPC Items"
 
 class HiddenItems(DefaultOnToggle):
-    """Shuffles hidden items into the pool
+    """Shuffles hidden items into the pool.
     """
     display_name = "Hidden Items"
 
@@ -56,6 +56,11 @@ class Cobalion(DefaultOnToggle):
     """Shuffles Mistralton Cave items into the pool (Does not Impact the "Defeat Cobalion" Goal)
     """
     display_name = "Mistralton Cave Items"
+
+class AbyssalRuins(DefaultOnToggle):
+    """Shuffles Abyssal items into the pool (Only works with the "Defeat Cynthia" or "Become Champion" goals.)
+    """
+    display_name = "Abyssal Ruins Items"
 
 class Flash(DefaultOnToggle):
     """Items in or through dark areas require TM70 Flash in logic.
@@ -80,10 +85,12 @@ def after_options_defined(options: dict) -> dict:
         'randomize_hidden_items': HiddenItems,
         'require_dowsing_mchn': DowsingMCHN,
         'include_mistralton_cave_items': Cobalion,
+        'include_abyssal_ruins_items': AbyssalRuins,
         'require_flash': Flash,
         'add_resort_pass': ResortPass
     })
     return options
+
 
 
 
