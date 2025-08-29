@@ -3742,7 +3742,7 @@
       "N's Castle",
       "Async"
     ],
-    "requires": "[EVENT] Defeat Elite Four"
+    "requires": "|[EVENT] Defeat Elite Four|"
   },
   {
     "name": "N's Castle 3F - Item in Center Room",
@@ -3751,7 +3751,7 @@
       "N's Castle",
       "Async"
     ],
-    "requires": "[EVENT] Defeat Elite Four"
+    "requires": "|[EVENT] Defeat Elite Four|"
   },
   {
     "name": "N's Castle 3F - Team Plasma Grunt in Left Room",
@@ -3761,7 +3761,7 @@
       "Async",
       "NPC"
     ],
-    "requires": "[EVENT] Defeat Elite Four"
+    "requires": "|[EVENT] Defeat Elite Four|"
   },
   {
     "name": "N's Castle 4F - Item in N's Room",
@@ -3770,7 +3770,7 @@
       "N's Castle",
       "Async"
     ],
-    "requires": "[EVENT] Defeat Elite Four"
+    "requires": "|[EVENT] Defeat Elite Four|"
   },
   {
     "name": "N's Castle 4F - Item in Center Room",
@@ -3779,7 +3779,7 @@
       "N's Castle",
       "Async"
     ],
-    "requires": "[EVENT] Defeat Elite Four"
+    "requires": "|[EVENT] Defeat Elite Four|"
   },
   {
     "name": "Route 11 - Item in NW Grass",
