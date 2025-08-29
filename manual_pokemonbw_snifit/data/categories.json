@@ -20,7 +20,7 @@
       "include_mistralton_cave_items"
     ]
   },
-  "AbyssalRuins": {
+  "Abyssal Ruins": {
     "hidden": true,
     "yaml_option": [
       "include_abyssal_ruins_items"
@@ -36,6 +36,7 @@
     ]
   }  
 }
+
 
 
 
