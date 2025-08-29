@@ -20,6 +20,12 @@
       "include_mistralton_cave_items"
     ]
   },
+  "AbyssalRuins": {
+    "hidden": true,
+    "yaml_option": [
+      "include_abyssal_ruins_items"
+    ]
+  },
   "PostGame": {
     "hidden": true
   },
@@ -28,8 +34,9 @@
     "yaml_option": [
       "add_resort_pass"
     ]
-  }
+  }  
 }
+
 
 
 
