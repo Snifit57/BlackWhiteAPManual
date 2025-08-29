@@ -2554,5 +2554,13 @@
       "ResortPass"
     ],
     "progression": true
-  }
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Clear out Team Plasma",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
 ]
