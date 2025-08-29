@@ -6,13 +6,22 @@ This AP World assumes you know how to add items to your game using [PKHeX](https
 
 Shoutouts to Linneus and their [Pokémon Platinum Manual](https://github.com/Linneus/PlatinumAPManual/releases/tag/2.3) without out which I would not have been inspired to make this Manual or have the knowledge to add extra options.
 
+## Why Play the Manual World Instead of the Traditional World?
+*This is not meant to discredit the traditional world, the creator(s) put in a lot of time/effort, this is merely acknowledging that it is not complete yet*
+- The traditional world is a lot more complicated and therfore still has a lot of issues to work out, the Manual is currently quite stable
+- The Manual allows you to randomize the Pokemon in the game using the [Univeral Pokemon Ranomizer](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/releases)
+- Thw Manual allows you to turn off Abyssal Ruins items in post-game goals
+- The Manual allows you to choose whether you should be expected to traverse dark areas without TM70 Flash or not
+- The Manual allows you to toggle hidden items and optional NPC Items
+
 ## Check Rewards
 - HMs
 - TMs
 - Badges
 - Key Items
-- Item from the "Items Pocket"
+- Items from the "Items Pocket"
 - Medicine Items
+- Berries
 
 ## Logic Requirements
 *These are the items you are expected to receive from the server in order to progress past certain points*
@@ -22,10 +31,16 @@ Shoutouts to Linneus and their [Pokémon Platinum Manual](https://github.com/Lin
  - Light/Dark Stone to initiate the Bianca fight and proceed to Tubeline Bridge
  - HM03 Surf to get any checks that require you to Surf (Moor of Icirrus as well as two Route 8 checks require Surf due to the puddles freezing in Winter)
  - HM04 Strength to get checks behind Strength rocks
- - HM05 Waterfall to checks up Waterfalls (Currently only one check)
+ - HM05 Waterfall to checks up Waterfalls (only one check for the two main-game goals)
  - TM70 Flash to get checks in dark caves
  - Completing the "Recieve Bicycle" Event check to access eastern Pinwheel forest
+ - Resort Pass to access Desert Resort and Relic Castle if the `add_resort_pass` option is enabled
  - All eight Badges to access Victory Road, the Pokémon League, and N's Castle
+ - `[EVENT] Defeat Elite Four` to get any check available after defeating Ghetsis and receiving the game's credits
+ - HM03 Surf to access Giant Chasm
+ - HM03 Surf and HM06 Dive to enter Abyssal Ruins if you turn on the `include_abyssal_ruins_items` option
+ - Machine Part to 'repair' the 'blackout' affecting Marvelous Bridge, Route 15, Route 14, and Abundant Shrine therfore granting access to those areas and their checks
+ - HM03 Surf and HM05 Waterfall to access Abundant Shrine
 
 ## Check Locations
 ### Always Available
@@ -35,19 +50,26 @@ Shoutouts to Linneus and their [Pokémon Platinum Manual](https://github.com/Lin
 - Badges
 - Various events you complete throughout the game. (They will always give you the event as an item) These are just to help know what you gain access to upon completing the tasks.
 ### Available with options
-- Hidden Items
+- Hidden items
 - Items given by all other NPCs
 - Mistralton Cave items
+- Abyssal Ruins items
+- Post-game items
 
-## Current Available Options
-### Two Goal Options
-- Defeat Ghetsis at N's Castle - The default goal where you collect eight Badges receive the game's credits (Longer goal ideal for Asyncs)
-- Defeat Cobalion at Mistralton Cave - A shorter goal that excludes all checks from Twist Mountain and beyond, where you collect four Badges and take down the Sword of Justice (Ideal for Syncs)
+## Available Options
+### Four Goal Options
+- Defeat Ghetsis at N's Castle - The default goal where you collect eight Badges and receive the game's credits (ideal for long Syncs or short Asyncs)
+- Defeat Cobalion at Mistralton Cave - A shorter goal that excludes all checks from Twist Mountain and beyond, where you collect four Badges and take down the Sword of Justice (ideal for Syncs)
+- Defeat Cynthia at Undella Town - A goal similar to the Steven goal from Emerald where you complete the standard goal then go back in to fight a tough final boss (ideal for a moderate length Async)
+- Become Champion - The longest goal that includes the entire post-game and requires you to collect the seven Sage's Wills and arrest the six Sages that were scattered by the fall of Ghetsis then rebattle the Elite Four (ideal for long Asyncs)
 ### Other Options
 - Include NPC Items - Adds checks from all random NPCs that give items
 - Randomize Hidden Items - Adds checks for the hidden items found throughout the game
 - Require Dowsing MCHN - Makes it so you need to receive the Dowsing MCHN before you are logically required to pick up hidden items
+- Require Flash - Rquires you to receive TM70 Flash before you are logically required to pick up items in or through dark areas
 - Include Mistralton Cave Items - Adds Mistralton Cave checks to the pool. This option was added to improve the Cobalion goal by preventing you from having to go through the cave twice if this is set to "false"
+- Add Resort Pass - Adds a new item you need to receive before having logical access to Desert Resort and Relic Castle
+- Include Abyssal Ruins Items - Adds Abyssal Ruins checks to the pool if you are doing one of the two post-game goals
 
 ## PKHeX Tutorial
 This will be a quick guide showing just enough about PKHeX to use this AP World properly.
