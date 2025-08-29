@@ -58,7 +58,7 @@ class Cobalion(DefaultOnToggle):
     display_name = "Mistralton Cave Items"
 
 class AbyssalRuins(DefaultOnToggle):
-    """Shuffles Abyssal items into the pool (Only works with the "Defeat Cynthia" or "Become Champion" goals.)
+    """Shuffles Abyssal Ruins items into the pool (Only works with the "Defeat Cynthia" or "Become Champion" goals.)
     """
     display_name = "Abyssal Ruins Items"
 
@@ -90,6 +90,7 @@ def after_options_defined(options: dict) -> dict:
         'add_resort_pass': ResortPass
     })
     return options
+
 
 
 
