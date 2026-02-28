@@ -6,14 +6,6 @@ This AP World assumes you know how to add items to your game using [PKHeX](https
 
 Shoutouts to Linneus and their [Pokémon Platinum Manual](https://github.com/Linneus/PlatinumAPManual/releases/tag/2.3) without out which I would not have been inspired to make this Manual or have the knowledge to add extra options.
 
-## Why Play the Manual World Instead of the Traditional World?
-*This is not meant to discredit the traditional world, the creator(s) put in a lot of time/effort, this is merely acknowledging that it is not complete yet*
-- The traditional world is a lot more complicated and therefore still has a lot of issues to work out, the Manual is currently quite stable
-- The Manual allows you to randomize the Pokemon in the game using the [Univeral Pokemon Ranomizer](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/releases)
-- Thw Manual allows you to turn off Abyssal Ruins items in post-game goals
-- The Manual allows you to choose whether you should be expected to traverse dark areas without TM70 Flash or not
-- The Manual allows you to toggle hidden items and optional NPC Items
-
 ## Check Rewards
 - HMs
 - TMs
